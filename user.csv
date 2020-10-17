@@ -1,0 +1,384 @@
+user,email,password,company_id,department_id,role_id,position,is_dxit_manager,is_verified
+Thant Zaw Lin,thantzawlin@awba-group.email,dxit,1,1,1,dxit,0,0
+Htet Nay Linn,htetnaylinn@awba-group.email,dxit,1,1,1,dxit,0,0
+Sithu Lwin,sithulwin@awba-group.com,dxit,1,1,1,dxit,0,0
+Than Zaw Oo,thanzawoo@awba-group.email,dxit,1,1,1,dxit,0,0
+Lin Kywe Thu,linkywethu@awba-group.email,dxit,1,1,1,dxit,0,0
+Yin Yin Hmwe,yinyinhmwe@awba-group.com,dxit,1,2,1,dxit,0,0
+Myo Myint Tun,myomyinttun@awba-group.email,dxit,1,1,1,dxit,0,0
+Arkar Myo,kyawnandaaung@pt-pyaezone.com,dxit,2,3,1,dxit,0,0
+Su Hlaing Hnin,suhlainghnin@awba-group.com,dxit,3,4,1,dxit,0,0
+Aye Mar Htay,ayemarhtay@evo-gro.com,dxit,4,4,1,dxit,0,0
+Myo Thin,myothin@awba-group.email,dxit,1,1,1,dxit,0,0
+Shun Lae Win,shunlaewin@awba-group.email,dxit,3,4,1,dxit,0,0
+July Moe,julymoe@ayeyarwaddyseeds.com,dxit,5,2,1,dxit,0,0
+Su Thinzar Tun,suthinzartun@ayeyarwaddyseeds.,dxit,5,2,1,dxit,0,0
+Hnin Hnin Htet,hninhninhtet@awba-group.com,dxit,1,2,1,dxit,0,0
+Thu Thu Win,thuthuwin@awba-group.email,dxit,1,1,1,dxit,0,0
+Naing Win,naingwin@awba-group.email,dxit,1,1,1,dxit,0,0
+Zin Wint Phyu,zinwintphyu@mktk-agri.com,dxit,6,4,1,dxit,0,0
+Saw Htwe Aye,sawhtweaye@awba-group.com,dxit,1,4,1,dxit,0,0
+Aung Swe,aung.swe@awba-group.com,dxit,1 Group,5,1,dxit,0,0
+Khine Zaw Win,khinezawwin@awba-group.com,dxit,1 Group,5,1,dxit,0,0
+Su Thinzar Htun,suthinzartun@ayeyarwaddyseeds.,dxit,5,2,1,dxit,0,0
+Ma Ei Ei Chaw,eieichaw@awba-group.com,dxit,1,2,1,dxit,0,0
+Ma Ei Phyo Zin,eiphyozin@myanmarsanpya.com,dxit,8,2,1,dxit,0,0
+Ma Haymar Thein Tan,haymartheintan@myanmasanpya.co,dxit,8,2,1,dxit,0,0
+Ma Zin Win Phyu,zinwintphyu@mktk-agri.com,dxit,6,4,1,dxit,0,0
+Zaw Win,zawwin.trading@awba-group.com,dxit,1,1,1,dxit,0,0
+Myo Min Aye,kyawnandaaung@pt-pyaezone.com,dxit,2,3,1,dxit,0,0
+Toe Nu,toenu@awba-group.email,dxit,1,1,1,dxit,0,0
+Tin Moe Khaing,tinmoekhaing@awba-group.email,dxit,1,1,1,dxit,0,0
+May Thet Kyaw,maythetkyaw@mktk-agri.email,dxit,6,6,1,dxit,0,0
+Shinn Hnin Pwint,shinnhninpwint@mkti-agri.email,dxit,6,2,1,dxit,0,0
+Thu Thu,thuthu@mktk-agri.email,dxit,6,2,1,dxit,0,0
+Su Mon Aye,sumonaye@mktk-agri.email,dxit,6,4,1,dxit,0,0
+Hsu Yamone Phoo,hsuyamonephoo@awba-group.com,dxit,1 Group,7,1,dxit,0,0
+7 Teams,7 Laptop,dxit,1 Group,7,1,dxit,0,0
+Aye Sandar,ayesandar@mktk-agri.com,dxit,6,4,1,dxit,0,0
+Hsu Nandar Phyo Hnin,hsunandarphyohnin@mktk-agri.em,dxit,6,4,1,dxit,0,0
+Aung Kyaw Win Tun,aungkyawwintun@awba-group.com,dxit,1 Group,8,1,dxit,0,0
+Chan Thar,chanthar@awba-group.com,dxit,5,1,1,dxit,0,0
+Hnin Wuit Yee,hninwuityee@myanmarsanpya.emai,dxit,8,4,1,dxit,0,0
+Moe Thu Thu Khine,moethuthukhine@awba-group.com,dxit,1 Group,9,1,dxit,0,0
+Hnin Ei Ei Hlaing,hnineieihlaing@awba-group.emai,dxit,1,4,1,dxit,0,0
+Shwe Sin Myint Moh,shwesinmyintmoh@awba-group.com,dxit,1,4,1,dxit,0,0
+Wint Htet Kyaw,winthtetkyaw@awba-group.com,dxit,1,4,1,dxit,0,0
+Yu Mon Aung,yumonaung.mai@awba-group.email,dxit,9,4,1,dxit,0,0
+Thet Su Mon,thetsumon@mktk-agri.email,dxit,6,4,1,dxit,0,0
+Aung Thu,kyawnandaaung@pt-pyaezone.com,dxit,2,3,1,dxit,0,0
+San Lin,sanlin@wisarra.email,dxit,3,1,1,dxit,0,0
+Aung Aung,aungaung@awba-group.email,dxit,1,1,1,dxit,0,0
+Thit Yar Khauk Sale Center,thityarkhauksalecenter@wisarra,dxit,1,1,1,dxit,0,0
+Ma Thiri Phyo,thiriphyo@awba-group.com,dxit,1,2,1,dxit,0,0
+Po Po Aung,popoaung@awba-group.com,dxit,1 Group,4,1,dxit,0,0
+Ma Wint,wint@myanmasanpya.com,dxit,8,4,1,dxit,0,0
+Zaw Min Oo,zawminoo.trading@awba-group.co,dxit,9,10,1,dxit,0,0
+Hmue Hayman Zaw,hmuehaymanzaw@evo-gro.com,dxit,4,4,1,dxit,0,0
+Zaw Myo Thet,zawmyothet@awba-group.email,dxit,1,1,1,dxit,0,0
+Soe Maung,soemaung@wisarra.com,dxit,3,1,1,dxit,0,0
+Aung Kyaw Win,aungkyawwin@evo-gro.com,dxit,4,1,1,dxit,0,0
+Win Htut,winhtut@mktk-agri.com,dxit,6,1,1,dxit,0,0
+Ei Phyo Zin,eiphyozin@myanmasanpya.com,dxit,8,2,1,dxit,0,0
+May Thandar Soe,maythandarsoe@awba-group.com,dxit,1,2,1,dxit,0,0
+Pyae Pyae Win,pyaepyaewin@mktk-agri.email,dxit,6,1,1,dxit,0,0
+Kyaw Thu Khaing,kyawthukhaing@awba-group.com,dxit,9,11,1,dxit,0,0
+Yee Yee Hla Naing,yeeyeehlanaing@awba-group.com,dxit,2,12,1,dxit,0,0
+Naw Su Wai,nawsuwai@awba-group.com,dxit,1 Group,7,1,dxit,0,0
+Thein Thein,theinthein@awba-group.com,dxit,9,13,1,dxit,0,0
+Min Naung,minnaung@wisarra.com ,dxit,3,1,1,dxit,0,0
+Wah Wah Thin,wahwahthin@awba-group.com,dxit,10,4,1,dxit,0,0
+Hsu Myat Thu,hsumyatthu@ayeyarwaddyseeds.co,dxit,11,7,1,dxit,0,0
+Saw Sae Khu Mu,sawsaekuuhmue@wisarra.com,dxit,3,1,1,dxit,0,0
+Aung Win Naing,aungwinnaing@awba-group.com,dxit,1,1,1,dxit,0,0
+Aung Naing Win,aungnaingwin@pt-pyaezone.com,dxit,2,3,1,dxit,0,0
+Soe Thu Kyaw,soethukyaw@awba-group.com,dxit,1 Group,14,1,dxit,0,0
+Chan Myae Lwin,chanmyaelwin@pt-pyaezone.email,dxit,2,4,1,dxit,0,0
+Thet Zin Aung,thetzinaung@wisarra.com,dxit,3,1,1,dxit,0,0
+Nwe Nwe Oo,nwenweoo@wisarra.com,dxit,3,4,1,dxit,0,0
+Soe Thiha Zaw,soethihazaw@awba-group.com,dxit,1,1,1,dxit,0,0
+Ye Myint Win,,dxit,1,1,1,dxit,0,0
+Nan Khin Hmwe,,dxit,4,4,1,dxit,0,0
+Khin Thidar Myint,khinthidarmyint@awba-group.ema,dxit,1,2,1,dxit,0,0
+Su Myat Thwe,sumyatthwe@awba-group.com,dxit,1,2,1,dxit,0,0
+Kyaw Zaya,kyawzaya@mktk-agri.com,dxit,6,2,1,dxit,0,0
+A Tay Lay,toehlaing@pt-pyaezone.com,dxit,2,15,1,dxit,0,0
+Thinzar,toehlaing@pt-pyaezone.com,dxit,2,15,1,dxit,0,0
+Ye Win,yewin.trading@awba-group.com,dxit,9,10,1,dxit,0,0
+Hla Myo Min,hlamyomin@awba-group.com,dxit,2,13,1,dxit,0,0
+Su Yee,suyee@mktk-agri.email,dxit,6,4,1,dxit,0,0
+Ko Thiha,minhan@pt-pyaezone.email; yinn,dxit,2,3,1,dxit,0,0
+Ko Chan Myae,thwethwesoe@pt-pyaezone.com; t,dxit,2,15,1,dxit,0,0
+Ei Shwe Sin,eishwesin@awba-group.com,dxit,1,4,1,dxit,0,0
+Khin Thet Htar Nwe,khinthethtarnwe.mai@awba-group,dxit,1,4,1,dxit,0,0
+Min Aung,minaung.mai@awba-group.email,dxit,9,13,1,dxit,0,0
+Hla Myo Aung,hlamyoaung@awba-group.com,dxit,1,1,1,dxit,0,0
+Kyaw Aung Saw Lin,thwethwesoe@pt-pyaezone.com; t,dxit,2,15,1,dxit,0,0
+Aung Zin Phyo,aungzinphyo@awba-group.email,dxit,1,1,1,dxit,0,0
+Moe Thi Thi Khine,moethithikhine@awba-group.com,dxit,1,4,1,dxit,0,0
+Wai Wai Aung,waiwaiaung@awba-group.com,dxit,1,4,1,dxit,0,0
+Thet Phyu Phwae,thetphyuphwe@wisarra.com,dxit,3,4,1,dxit,0,0
+Emerald,emerald@awba-group.com,dxit,5,11,1,dxit,0,0
+Aye Aye Myat,ayeayemyat@awba-group.com,dxit,1,16,1,dxit,0,0
+Myo Nyunt Swe,myonyuntswe@wisarra.email,dxit,3,1,1,dxit,0,0
+Soe Thar Kyaw,soetharkyaw@awba-group.email,dxit,1,1,1,dxit,0,0
+Ei Nandar Oo,kyawnandaaung@pt-pyaezone.com,dxit,2,3,1,dxit,0,0
+Zin Moe Htay,zinmoehtay@wisarra.email,dxit,3,1,1,dxit,0,0
+Khaing Khaing Htwe,khaingkhainghtwe@evo-gro.com,dxit,4,4,1,dxit,0,0
+Thet Htar,khinthethtarnwe.mai@awba-group,dxit,9,4,1,dxit,0,0
+Myat Thiha,myatthiha@awba-group.com,dxit,9,1,1,dxit,0,0
+Saw Yu Nwe,sawyunwe@awba-group.com,dxit,1,4,1,dxit,0,0
+Nyi Nyi Kyaw Lwin Oo,nyinyikyawlwinoo@awba-group.co,dxit,1 Group,17,1,dxit,0,0
+Shune Lae Win,shunelaewin@wisarra.com,dxit,3,4,1,dxit,0,0
+May Thandar Hlaing,maythandarhlaing@awba-group.co,dxit,1,2,1,dxit,0,0
+Nwe Nwe Shein,nwenweshein@awba-group.com,dxit,1,2,1,dxit,0,0
+Thiri Phyo,thiriphyo@awba-group.com,dxit,1,2,1,dxit,0,0
+Tun Tun Lin Aung,tuntunlinaung@wisarra.email,dxit,3,1,1,dxit,0,0
+Saw Ye Htet,sawyehtet@wisarra.com,dxit,3,4,1,dxit,0,0
+San Myint,sanmyint@wisarra.com,dxit,3,1,1,dxit,0,0
+Myo Thida Aung,myothidaaung@wisarra.com,dxit,3,1,1,dxit,0,0
+Myo Nyunt,myonyunt@wisarra.com,dxit,3,1,1,dxit,0,0
+Thandar Win,thandarwin@wisarra.com,dxit,3,4,1,dxit,0,0
+Tharaphie Aung,tharaphieaung@wisarra.com,dxit,3,4,1,dxit,0,0
+U Aung Ko San,aungkosan@awba-group.com,dxit,9,1,1,dxit,0,0
+U Myo Aung,myoaung@awba-group.com,dxit,9,1,1,dxit,0,0
+Thura Kyaw,thurakyaw@awba-group.com,dxit,9,1,1,dxit,0,0
+D Nilar Khaing Saw,nilarkhaingsaw@awba-group.com,dxit,9,1,1,dxit,0,0
+U Myint Kyaw,myintkyaw@awba-group.com,dxit,9,1,1,dxit,0,0
+Tun Tun Zaw,tuntunzaw@awba-group.com,dxit,9,1,1,dxit,0,0
+Tun Nay Lin,tunnaylin@awba-group.com,dxit,9,1,1,dxit,0,0
+U Nyo Win,nyowin@awba-group.com,dxit,9,1,1,dxit,0,0
+U Kyaw Myo Htun,kyawmyohtun@awba-group.com,dxit,9,1,1,dxit,0,0
+Myo Chit Oo,myochitoo@awba-group.com,dxit,9,1,1,dxit,0,0
+Ye Min Ko,yeminko@awba-group.com,dxit,9,1,1,dxit,0,0
+Tin Htut Win,tinhtutwin@awba-group.com,dxit,9,1,1,dxit,0,0
+Aung Myint Soe,aungmyintsoe@awba-group.com,dxit,9,1,1,dxit,0,0
+Thiha Naung,thihanaung@awba-group.com,dxit,1 Group,5,1,dxit,0,0
+Zaw Zaw Lwin,zawzawlwin@pt-pyaezone.com,dxit,2,12,1,dxit,0,0
+Pyae Pyae Phyo Maung,pyaepyaephyomaung@pt-pyaezone.,dxit,2,4,1,dxit,0,0
+Aye Myint Maw,ayemyintmaw@pt-pyaezone.com,dxit,2,4,1,dxit,0,0
+Hsu Yamin Khin,hsuyaminkhin@awba-group.om,dxit,1 Group,4,1,dxit,0,0
+Zin Mar Htike,zinmarhtike@mktk-agri.com,dxit,6,2,1,dxit,0,0
+Thein Thein ,theinthein@awba-group.com,dxit,9,4,1,dxit,0,0
+Htet Htet Zaw,htethtetzaw@mahamatelliance.co,dxit,12,1,1,dxit,0,0
+Nang Thida Oo,nangthidaoo@myanmasanpya.com,dxit,8,4,1,dxit,0,0
+Khaing Lin,khainglin@evo-gro.com,dxit,4,1,1,dxit,0,0
+Zin Min Oo,zinminoo@wisarra.com,dxit,3,1,1,dxit,0,0
+SAP Users,email to all CA,dxit,1 Group,4,1,dxit,0,0
+Htin Lin,htinlin@pt-pyaezone.com,dxit,2,12,1,dxit,0,0
+Myo Aung,myoaung@awba-group.com,dxit,9,1,1,dxit,0,0
+Thazinphyo,thazinphyo@pt-pyaezone.email,dxit,2,4,1,dxit,0,0
+Cherry Aung,cherryaung@awba-group.com,dxit,1,4,1,dxit,0,0
+Aye Chan Maw,ayechanmaw@pt-pyaezone.email,dxit,2,4,1,dxit,0,0
+Thein Ou Khin,theinoukhin@pt-pyaezone.email,dxit,2,4,1,dxit,0,0
+Hsu Lai Yee ,hsulaiyee@myanmarsanpya.email,dxit,8,4,1,dxit,0,0
+Zin Mar Oo,zinmaroo@mahaawba.com,dxit,13,4,1,dxit,0,0
+Pa Pa Phyo,papaphyo@villagelink.co,dxit,14,4,1,dxit,0,0
+Yamin Thandar,yaminthandar@pt-pyaezone.com,dxit,2,18,1,dxit,0,0
+Min Thu Kyaw,minthukyaw@awba-group.com,dxit,1 Group,14,1,dxit,0,0
+Yee Yee Thein,yeeyeethein@mktk-agri.com,dxit,6,13,1,dxit,0,0
+Thant Zin,thantzin@mktk-agri.com,dxit,6,1,1,dxit,0,0
+Kayzin Thant,kayzinthant@awba-group.com,dxit,1,2,1,dxit,0,0
+Si Si Win,sisiwin@awba-group.com,dxit,1,4,1,dxit,0,0
+Thazin Phyo,thazinphyo@pt-pyaezone.email,dxit,2,4,1,dxit,0,0
+Cho Cho,chocho@pt-pyaezone.email,dxit,2,4,1,dxit,0,0
+Cho Cho Thant,chochothant@pt-pyaezone.com,dxit,2,4,1,dxit,0,0
+Ye Win Htun,yewinhtun@myanmarsanpya.com,dxit,8,1,1,dxit,0,0
+Han Zaw Min ,hanzawmin@myanmarsanpya.com,dxit,8,1,1,dxit,0,0
+Aung Naing Aye,aungnaingaye@awba-group.email,dxit,1,1,1,dxit,0,0
+Nilar Khaing Saw,nilarkhaingsaw@awba-group.com,dxit,1,1,1,dxit,0,0
+Khant Ko Ko,khantkoko@awba-group.com,dxit,1,1,1,dxit,0,0
+Wai Yan Paing,waiyanpaing@awba-group.com,dxit,1,1,1,dxit,0,0
+Thaung Soe Kyaw,thaungsoekyaw@awba-group.com,dxit,1,1,1,dxit,0,0
+Pyae Moe Aung,pyaemoeaung@awba-group.email,dxit,1,1,1,dxit,0,0
+Aung Zaw Maw,aungzawmaw@wisarra.com,dxit,3,1,1,dxit,0,0
+Kyaw Thu Win,kyawthuwin@awba-grooup.com,dxit,1,1,1,dxit,0,0
+Wint Thiri Aung,wintthiriaung@awba-group.com,dxit,1 Group,19,1,dxit,0,0
+Thin Moh Moh Hlaing,thinmohmohhlaing@awba-group.co,dxit,1 Group,19,1,dxit,0,0
+Depar Wai Phyo,deparwaiphyo@wisarra.com,dxit,3,4,1,dxit,0,0
+Win Win Thant,winwinthant.mai@awba-group.ema,dxit,9,1,1,dxit,0,0
+Wint,Wint@myanmarsanpya.com,dxit,8,4,1,dxit,0,0
+Pyae Paing Soe,pyaepaingsoe@myanmarsanpya.com,dxit,8,4,1,dxit,0,0
+ Khaing Khaing San,khaingkhaingsan@evo-gro.com,dxit,4,4,1,dxit,0,0
+Chit Oo Maung,chitoomaung@awba-group.email,dxit,9,1,1,dxit,0,0
+Yan Naing Oo,yannaingoo@wisarra.email,dxit,3,1,1,dxit,0,0
+Khat Khat Khine,khatkhatkhine@awba-group.email,dxit,1 Group,8,1,dxit,0,0
+Kyaw Myo Tun,kyawmyotun@awba-group.com,dxit,9,1,1,dxit,0,0
+Hnin Yu Yu Aung,hninyuyuaung@wisarra.com,dxit,3,4,1,dxit,0,0
+Hnin Yu Swe,hninyuswe@wisarra.com,dxit,3,4,1,dxit,0,0
+Nang Ei Ei Myo,nangeieimyo@awba-group.email,dxit,1 Group,8,1,dxit,0,0
+Eaint Thae Lin,eaintthaelin@awba-group.email,dxit,1 Group,7,1,dxit,0,0
+Seng Tawng,sengtawng@awba-group.email,dxit,1 Group,8,1,dxit,0,0
+Yan Naing Tun,yannaingtun@awba-group.email,dxit,1,1,1,dxit,0,0
+Wai Yan Tun,waiyantun@awba-group.email,dxit,1,1,1,dxit,0,0
+Thant Zin Tun,thantzintun@awba-group.email,dxit,1,1,1,dxit,0,0
+Naing Win ,naingwin@awba-group.email,dxit,1,1,1,dxit,0,0
+Nyi Nyi Aung,mgnyinyiaung@awba-group.email,dxit,1,1,1,dxit,0,0
+Yupar Soe,yuparsoe@awba-group.email,dxit,1,1,1,dxit,0,0
+Myat Thingi,myattheingi@ayeyarwaddyseeds.c,dxit,5,4,1,dxit,0,0
+Tun Min Aung,tunminaung@awba-group.com,dxit,1,1,1,dxit,0,0
+Moh Moh Thandar Aung,mohmohthandaraung@pt-pyaezone.,dxit,2,12,1,dxit,0,0
+U Cho ,chowinhlaing@myanmarsanpya.com,dxit,8,18,1,dxit,0,0
+Kyaw Myo Htay,kyawmyohtay@awba-group.com,dxit,1,1,1,dxit,0,0
+Ei Ei Chaw,eieichaw@awba-group.com,dxit,1,2,1,dxit,0,0
+Khaing Su Wai,khaingsuwai.mai@awba-group.com,dxit,9,4,1,dxit,0,0
+Taikkyi Sale Center,taikkyi@mahamatealliance.email,dxit,12,1,1,dxit,0,0
+Yin Min Paike,yinminpaike@awba-group.com,dxit,1 Group,4,1,dxit,0,0
+Soe Moe Naing,soemoenaing@awba-group.com,dxit,1 Group,4,1,dxit,0,0
+Khine Khine San,khinekhinesan@evo-group.com,dxit,4,4,1,dxit,0,0
+U Chit Swe,chitshwe@mktk-agri.com,dxit,6,1,1,dxit,0,0
+Nang Naung Htwe,nangnaunghtwe@awba-group.com,dxit,1,4,1,dxit,0,0
+Moh Moh Aung,mohmohaung@wisarra.com,dxit,3,4,1,dxit,0,0
+Chan Myae,,dxit,2,15,1,dxit,0,0
+Kyaw Thu Aung,kyawthuaung@awba-group.com,dxit,1,1,1,dxit,0,0
+Win Min Hlaing,winminhlaing@awba-group.com,dxit,1,1,1,dxit,0,0
+Seng Taung,sengtaung@awba-group.email,dxit,1 Group,8,1,dxit,0,0
+Zaw Naing Aung,zawaingaung@evo-gro.com,dxit,4,1,1,dxit,0,0
+Aye Lwin,ayelwin@mktk-agri.com,dxit,6,1,1,dxit,0,0
+Nyein Nyein Maw,nyeinnyeinmaw@wisarra.com,dxit,3,4,1,dxit,0,0
+Kay Khaing Tun,kaykhaingtun@awba-group.com,dxit,1,2,1,dxit,0,0
+Yin Yin Mya,-,dxit,11,1,1,dxit,0,0
+Nan Htet Htet,nanhtethtet@awba-group.email,dxit,1 Group,8,1,dxit,0,0
+Toe Wai Lin,toewailin@pt-pyaezone.com,dxit,2,13,1,dxit,0,0
+Kyaw Zin Oo,kyawzinoo@mahaawba.com,dxit,13,20,1,dxit,0,0
+Aung Lwin Htay,aunglwinhtay@pt-pyaezone.com,dxit,24,12,1,dxit,0,0
+Thinzar Myint,thinzarmyint@awba-group.com,dxit,1 Group,4,1,dxit,0,0
+Tin Myo Min,tinmyomin@awba-group.email,dxit,9,12,1,dxit,0,0
+Nay Naing Tun,naynaingtun@awba-group.email,dxit,9,12,1,dxit,0,0
+Thant Zaw Aung,thantzawaung@mktk-agri.com,dxit,6,13,1,dxit,0,0
+Mya Mya Soe,myamyasoe.mai@awba-group.email,dxit,9,7,1,dxit,0,0
+Thiri Swe,thiriswe.mai@awba-group.com,dxit,9,13,1,dxit,0,0
+Kyaw Thura,kyawthura@wisarra.com,dxit,3,1,1,dxit,0,0
+Aung Zaw Lin,aungzawlin@wisarra.com,dxit,3,1,1,dxit,0,0
+Soe Htike Oo,soehtikeoo@wisarra.com,dxit,3,1,1,dxit,0,0
+Nay San,saysan@wisarra.com,dxit,3,1,1,dxit,0,0
+Khin Maung Win,khinmaungwin@wisarra.com,dxit,3,1,1,dxit,0,0
+Myo Min Thet,myominthet@wisarra.com,dxit,3,1,1,dxit,0,0
+Thant Zin Aung,thantzinaung.mai@awba-group.em,dxit,9,13,1,dxit,0,0
+Soe Myat Thu Zar,soemyatthuzar@awba-group.com,dxit,1 Group,7,1,dxit,0,0
+Shwe Bo 15,shwebowarehouse@awba-group.ema,dxit,1,15,1,dxit,0,0
+Tin Aung Kyaw,tinaungkyaw@evo-gro.com,dxit,4,1,1,dxit,0,0
+Kun Chan Gone,kunchangonesalecenter@awba-gro,dxit,1,1,1,dxit,0,0
+Thae Hnin Hsu Aye,thaehninhsuaye@wisarra.com,dxit,3,4,1,dxit,0,0
+Tun Kyw Kyaw,tunkyawkyaw@awba-group.email,dxit,1,1,1,dxit,0,0
+Soe Wunna Zaw,soewunnazaw@evo-gro.com,dxit,4,1,1,dxit,0,0
+Kyaw Khant Oo,kawkhantoo@evo-gro.com,dxit,4,1,1,dxit,0,0
+Thet Myat Myat Noe,thetmyatmyatnoe@awba-group.ema,dxit,1 Group,7,1,dxit,0,0
+Zin Zin Swe Latt,zinzinswelatt@awba-group.com,dxit,1,4,1,dxit,0,0
+Ye Tun,yetun@awba-group.com,dxit,1,1,1,dxit,0,0
+Khat Khat Thin,khatkhatthin@awba-group.email,dxit,1 Group,8,1,dxit,0,0
+Rajesh Malhotra,rajesh.malhotra@awba-group.com,dxit,1 Group,21,1,dxit,0,0
+Tin Zar Myint,tinzarmyint@awba-group.com,dxit,1 Group,4,1,dxit,0,0
+Hnin Hnin Shwe,hninhninshwe@pt-pyaezone.email,dxit,2,12,1,dxit,0,0
+Thet Thet Oo,thetthetoo@wisarra.com,dxit,3,13,1,dxit,0,0
+Tun Nanda,tunnanda@awba-group.com,dxit,1,1,1,dxit,0,0
+Thin Thiri,thinthiri@awba-group.com,dxit,1,2,1,dxit,0,0
+Than Soe,thansoe@awba-group.com,dxit,1,1,1,dxit,0,0
+Zin Mar Lwin Htay,zinmarlwinhtay@myanmarsan,dxit,8,13,1,dxit,0,0
+Khine Ei Ei Phyoe,khineeieiphyoe@mktk-agri.,dxit,6,4,1,dxit,0,0
+Aye Aye Nwe,ayeayenwe@mktk-agri.com,dxit,6,4,1,dxit,0,0
+Min Hein,minhein@awba-group.com,dxit,1 Group,21,1,dxit,0,0
+Rajendragare,rajendragare@awba-group.c,dxit,1 Group,22,1,dxit,0,0
+Thwe Thwe Soe,thwethwesoe@pt-pyaezone.c,dxit,2,15,1,dxit,0,0
+Nandar Win Win Htun,nandarwinwintun.mai@awba-,dxit,9,4,1,dxit,0,0
+Tun Soe,tuntunsoe@awba-group.emai,dxit,9,13,1,dxit,0,0
+Myint Kyaw,myintkyaw@awba-group.com,dxit,1,1,1,dxit,0,0
+Haymar Thein Tan,haymartheintan@myanmarsan,dxit,8,2,1,dxit,0,0
+Wyne,,dxit,11,13,1,dxit,0,0
+Htet Htet Aung,oakpho@mahamatealliance.e,dxit,12,1,1,dxit,0,0
+Nwe Ni Win,nweniwin@mahamatealliance,dxit,12,23,1,dxit,0,0
+Thet Wai Nwe,thetwainwe@awba-group.com,dxit,1 Group,7,1,dxit,0,0
+Myint Hay Mar Aung,myinthaymaraung@awba-grou,dxit,1 Group,7,1,dxit,0,0
+Tin Win,tinwin@pt-pyaezone.com,dxit,24,24,1,dxit,0,0
+Nay Myo Thein,naymyothein@awba-group.em,dxit,1,1,1,dxit,0,0
+U Soe Than,soethan@ayeyarwaddyseeds.,dxit,5,18,1,dxit,0,0
+Su Mon Naing,sumonnaing@mktk-agri.emai,dxit,6,4,1,dxit,0,0
+Maung Maung Myint,maungmaungmyint@awba-grou,dxit,1 Group,14,1,dxit,0,0
+Chan Myae   ,toehlaing@pt-pyaezone.com,dxit,2,12,1,dxit,0,0
+Toe Hlaing,toehlaing@pt-pyaezone.com,dxit,2,12,1,dxit,0,0
+Khant KoKo,khantkoko@awba-group.com,dxit,1,1,1,dxit,0,0
+Zaw Win Hlaing,zawwinhlaing@awba-group.c,dxit,1,1,1,dxit,0,0
+Thet Hsu  Mon,thethsumon@mktk-agri.emai,dxit,6,4,1,dxit,0,0
+Sin Phyu Kyun Sale Center,sinphyukyunsalecenter@wis,dxit,3,1,1,dxit,0,0
+Htet Wai Yan Aung,htetwaiyanaung@awba-group,dxit,1,1,1,dxit,0,0
+Thida Moe,thidamoe.agrigate@awba-gr,dxit,1,4,1,dxit,0,0
+TheinThein Khine,theinkhine.mai@awba-group,dxit,9,4,1,dxit,0,0
+Phyo Htet Kyaw,comet.mdy@awba-group.emai,dxit,9,15,1,dxit,0,0
+Thin Nandar Nwe,thinnandarnwe@awba-group.,dxit,9,12,1,dxit,0,0
+Hnin Wai Lwin,hninwailwin@awba-group.co,dxit,1,4,1,dxit,0,0
+Myo Zaw Nyein,myozawnyein@awba-group.co,dxit,1,1,1,dxit,0,0
+Nay Ye Lin,nayyelin@pt-pyaezone.emai,dxit,2,12,1,dxit,0,0
+Phyu Center,phyusalecenter@awba-group,dxit,9,1,1,dxit,0,0
+Yee Mon Khaing,yeemonkhaing@wisarra.emai,dxit,3,4,1,dxit,0,0
+Phyo Wai Hein,phyowaihein@awba-group.co,dxit,1,1,1,dxit,0,0
+Khine Ei Ei Phyo,khineeieiphyoe@mktk-agri.,dxit,6,4,1,dxit,0,0
+Khin Khin Soe,khinkhinsoe@awba-group.em,dxit,1 Group,4,1,dxit,0,0
+Than Tint,thantint@awba-group.com,dxit,9,18,1,dxit,0,0
+Saw Myat Nwe,sinphyukyunsalecenter@wis,dxit,3,1,1,dxit,0,0
+Aung Naing Lin,aungnainglin@awba-group.e,dxit,1,1,1,dxit,0,0
+Nay Win,naywin@awba-group.email,dxit,1,1,1,dxit,0,0
+Aung Ko Ko Min,aungkokomin@awba-group.em,dxit,1,1,1,dxit,0,0
+Hlaing Myo Htun,hlaingmyohtun@awba-group.,dxit,1,1,1,dxit,0,0
+Phyo Ei Thazin,phyoeithazin@mktk-agri.co,dxit,6,4,1,dxit,0,0
+Soe Wai Yan Lin,soewaiyanlin@mktk-agri.co,dxit,6,1,1,dxit,0,0
+Mandalay 15,minhan@pt-pyaezone.email,dxit,2,15,1,dxit,0,0
+Kyaw Htay,kyawhtay.mai@awba-group.c,dxit,9,12,1,dxit,0,0
+Htin Kyaw,htinkyaw.mai@awba-group.c,dxit,9,12,1,dxit,0,0
+Win Lwin Oo,winlwinoo.mai@awba-group.,dxit,9,1,1,dxit,0,0
+Thet Naung Oo,thetnaungoo.mai@awba-grou,dxit,9,1,1,dxit,0,0
+Kyaw Win,kyawwin.mai@awba-group.co,dxit,9,12,1,dxit,0,0
+Lu Min Han,gti-nyaungtonewarehouse@w,dxit,3,15,1,dxit,0,0
+Kay Zin Thant,kayzinthant@awba-group.co,dxit,1,2,1,dxit,0,0
+Thiha Aung,thihaaung@awba-group.emai,dxit,1,1,1,dxit,0,0
+May Paing Thet,maypaingthet@awba-group.c,dxit,1,16,1,dxit,0,0
+Hazebahvung,hazebahvung@villagelink.c,dxit,14,13,1,dxit,0,0
+Zi Zin Aung,zizinaung@pt-pyaezone.com,dxit,2,4,1,dxit,0,0
+Warranty Support(OutdoorServie),zizinaung@pt-pyaezone.com,dxit,2,1,1,dxit,0,0
+Yin Yin Aye,yinyinaye.mai@awba-group.,dxit,9,4,1,dxit,0,0
+Than Moe Lwin,thanmoelwin@awba-group.em,dxit,1,1,1,dxit,0,0
+Su Su Maw,susumaw@awba-group.com,dxit,1,4,1,dxit,0,0
+Hlaing Myo Tun,hlaingmyotun@awba-group.c,dxit,1,1,1,dxit,0,0
+Zinmar Htike,zinmarhtike@mktk-agri.com,dxit,6,2,1,dxit,0,0
+Aung Myin Kyaw,aungmyinkyaw@awba-group.e,dxit,1,1,1,dxit,0,0
+Ye Myint,yemyint@awba-group.com,dxit,1,1,1,dxit,0,0
+Thidar Moe,thidamoe@awba-group.com,dxit,1,4,1,dxit,0,0
+Myo Myint Htun,myomyinthtun@awba-group.e,dxit,1,1,1,dxit,0,0
+Hein Min Zaw,heinminzaw@awba-group.ema,dxit,1,1,1,dxit,0,0
+Thein Thein Khine,theintheinkhine@wisarra.c,dxit,3,4,1,dxit,0,0
+Hus Myat Oo,hsumyatoo@awba-group.emai,dxit,1,16,1,dxit,0,0
+Sithu Aung,sithuaung@awba-group.emai,dxit,1,1,1,dxit,0,0
+Cho Zin Wai,chozinwai@myanmarsanpya.c,dxit,8,4,1,dxit,0,0
+Nang Thinda Oo,nangthidaoo@myanmarsanpya,dxit,8,4,1,dxit,0,0
+Soe wanna Zaw,soewannazaw@myanmarsanpya,dxit,8,1,1,dxit,0,0
+Tin Tin Lin,tintinlin@awba-group.com,dxit,11,4,1,dxit,0,0
+Hsu Myat Oo,hsumyatoo@awba-group.emai,dxit,1,16,1,dxit,0,0
+Thiha Myo,thihamyo@awba-group.email,dxit,1,1,1,dxit,0,0
+Nandar Myat Oo,nandarmyatoo@awba-group.c,dxit,1 Group,4,1,dxit,0,0
+Aung Lyan Htang,aunglyanhtang@pt-pyaezone,dxit,2,17,1,dxit,0,0
+Thae Phyu Soe,thaephyusoe.mai@awba-grou,dxit,9,4,1,dxit,0,0
+Aung Myat Htut,aungmyathtut@awba-group.c,dxit,1,1,1,dxit,0,0
+GCEO,thadoehein@awba-group.com,dxit,1 Group,21,1,dxit,0,0
+Thein Thein Khaing,theintheinkhaing.mai@awba,dxit,9,4,1,dxit,0,0
+Htoo Htoo Win,htoowin@awba-group.com,dxit,1,1,1,dxit,0,0
+Htin Lin Aung,htinlinaung@awba-group.co,dxit,1,1,1,dxit,0,0
+Shin Hnin Pwint,shinhninpwint@mktk-agri.c,dxit,6,2,1,dxit,0,0
+Ma Phyo Yupar Maung,phyoyuparmg@wisarra.email,dxit,3,2,1,dxit,0,0
+Ma Thein Thein Khaing,theintheinkhine@wisarra.c,dxit,3,2,1,dxit,0,0
+Ma Khin Yadanar Oo,khinyadanaroo@wisarra.com,dxit,3,2,1,dxit,0,0
+Ma Nan Mon Mon Myat,nanmonmonmyat@wisarra.com,dxit,3,2,1,dxit,0,0
+Yan Naing Tun ,yannaingtun@awba-group.em,dxit,1,1,1,dxit,0,0
+Tin Moe Khaing ,tinmoekhaing@awba-group.e,dxit,1,1,1,dxit,0,0
+Ma Ngu War Khaing,nguwarkhaing@awba-group.c,dxit,5,4,1,dxit,0,0
+Tun Win Kyaw,tunwinkyaw@mktk-agri.emai,dxit,6,1,1,dxit,0,0
+Aung Phyo Wai,aungphyowai@mktk-agri.ema,dxit,6,1,1,dxit,0,0
+Khin Thuzar Myint,khinthuzarmyint@mktk-agri,dxit,6,2,1,dxit,0,0
+Hsu Linn Htet,hsulinnhtet@awba-group.co,dxit,1 Group,19,1,dxit,0,0
+Moh Moh Thandar  Aung,mohmohthandaraung@pt-pyae,dxit,2,12,1,dxit,0,0
+Shun Lae,shunlae@wisarra.com,dxit,3,4,1,dxit,0,0
+Aung Kyaw Tun,aungkyawtun@awba-group.em,dxit,1,1,1,dxit,0,0
+Soe Tun Thar,soetunthar@awba-group.ema,dxit,1,1,1,dxit,0,0
+Hla Myo Min ,hlamyomin@pt-pyaezone.com,dxit,2,18,1,dxit,0,0
+Nyein Nyein Ei,nyeinnyeinei.mai@awba-gro,dxit,9,4,1,dxit,0,0
+Min Thaw Zin,minthawzin@wisarra.com,dxit,3,1,1,dxit,0,0
+Saw Ye Htoo,sawyehtoo@wisarra.com,dxit,3,4,1,dxit,0,0
+Bhone Kyaw Lin,bhonekyawlin@awba-group.c,dxit,1,1,1,dxit,0,0
+Htantabin,htantabin@mahamateallianc,dxit,12,2,1,dxit,0,0
+Myat Zaw ,myatzaw@pt-pyaezone.com,dxit,2,25,1,dxit,0,0
+Kyi Aung,kyiaung@awba-group.email,dxit,1,1,1,dxit,0,0
+Ye Min Han,yeminhan@villagelink.co,dxit,14,1,1,dxit,0,0
+Wai Phyo Aung,waiphyoaung@wisarra.com,dxit,3,1,1,dxit,0,0
+Nyein Chan Aung,nyeinchan.aung@villagelin,dxit,14,20,1,dxit,0,0
+Maung Maung Khaing,maungmaungkhaing@mktk-agr,dxit,6,18,1,dxit,0,0
+ Thant Syn,thantsyn@awba-group.com,dxit,1,1,1,dxit,0,0
+Nway Nway Aung,nwaynwayaung@awba-group.e,dxit,1,1,1,dxit,0,0
+Thin Zar Myint,thinzarmyint@awba-group.c,dxit,1,4,1,dxit,0,0
+Hnin Wai Mon,hninwaimon@awba-group.com,dxit,1,4,1,dxit,0,0
+Mg Htwe,mghtwe@mktk-agri.email,dxit,6,1,1,dxit,0,0
+Thin War Soe,thinwarsoe.mai@awba-group,dxit,9,4,1,dxit,0,0
+Aye Nandar ,ayenandar@wisarra.com,dxit,3,4,1,dxit,0,0
+Khaing Khaing San,khaingkhaingsan@evo-gro.c,dxit,4,4,1,dxit,0,0
+Soe Myat Thuzar,soemyatthuzar@awba-group.,dxit,1 Group,7,1,dxit,0,0
+Aung Lin San,aunglinsan@awba-group.ema,dxit,1,4,1,dxit,0,0
+Yan Naing Min,yannaingmin@evo-gro.com,dxit,4,1,1,dxit,0,0
+Han Zaw Min,hanzawmin@myanmasanpya.co,dxit,8,1,1,dxit,0,0
+Hla Hla Than,yumonaung.mai@awba-group.,dxit,9,4,1,dxit,0,0
