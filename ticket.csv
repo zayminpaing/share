@@ -1,0 +1,674 @@
+user_id,project_id,status_id,open_person,open_date,assign_person,assign_date,resolve_person,resolve_date,resolution_description,close_person,close_date,support_type_id,remark,open_dow
+1,1,4,385,1-Jul-20,385,1-Jul-20,385,1-Jul-20,MS Teams setup,385,1-Jul-20,1,MS Teams setup,4
+2,1,4,385,1-Jul-20,385,1-Jul-20,385,1-Jul-20,MS Teams setup,385,1-Jul-20,1,MS Teams setup,4
+3,1,4,385,1-Jul-20,385,1-Jul-20,385,1-Jul-20,Outlook and MS Teams setup,385,1-Jul-20,1,Outlook and MS Teams setup,4
+4,1,4,386,1-Jul-20,386,1-Jul-20,386,1-Jul-20,MS Teams setup,385,1-Jul-20,2,MS Teams setup,4
+5,1,4,386,1-Jul-20,386,1-Jul-20,386,1-Jul-20,MS Teams setup,385,1-Jul-20,1,MS Teams setup,4
+6,1,4,386,1-Jul-20,386,1-Jul-20,386,1-Jul-20,Printer Re-Setup,385,2-Jul-20,1,Printer Issue,4
+7,1,4,386,1-Jul-20,386,1-Jul-20,386,1-Jul-20,Office Crack,385,1-Jul-20,1,Office Unlicense,4
+8,2,4,386,1-Jul-20,386,1-Jul-20,386,1-Jul-20,Create BP code M1-117 on 2 CMS,385,1-Jul-20,3, WSR New Customer BP code create,4
+9,1,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,Outlook Setup,385,2-Jul-20,1,Outlook Setup,5
+10,1,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,Office Activate,385,2-Jul-20,4,Office Activate,5
+11,1,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,MS Teams setup,385,2-Jul-20,1,MS Teams setup,5
+12,1,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,Outlook Profile Re-Setup,385,2-Jul-20,1,Outlook Error,5
+13,1,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,New PC Setup,385,2-Jul-20,4,New PC Setup,5
+14,1,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,New PC Setup,385,2-Jul-20,4,New PC Setup,5
+15,1,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,Outlook Profile Re-Setup,385,2-Jul-20,1,Outlook Error,5
+16,1,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,Outlook Profile Re-Setup,385,2-Jul-20,1,Outlook Issue,5
+8,2,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,Create BP code G2-067 on 2 CMS,385,2-Jul-20,3, WSR New Customer BP code create,5
+17,1,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,Outlook Re-Setup and Team Setup,385,2-Jul-20,1,Outlook and Team Issue,5
+18,1,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,Clean Temp File and Uninstall app,385,2-Jul-20,4,Laptop Maintenance,5
+19,3,4,388,2-Jul-20,388,2-Jul-20,388,2-Jul-20,Repair FortiClient,385,2-Jul-20,1,Can't connect to VPN,5
+13,3,4,388,2-Jul-20,388,2-Jul-20,388,2-Jul-20,Set up remote account,385,2-Jul-20,1,1 can't connect on new PC,5
+20,4,4,388,2-Jul-20,388,2-Jul-20,388,2-Jul-20,Request Telenor to fix it,385,2-Jul-20,5,Advertisement ring tune activating on all 4s,5
+21,5,4,389,2-Jul-20,389,2-Jul-20,389,2-Jul-20,Solved by 5,385,24-Sep-20,2,Rule Set Fault,5
+22,3,4,388,3-Jul-20,388,3-Jul-20,388,3-Jul-20,New PC set up,385,3-Jul-20,1,1 can't connect on new PC,6
+23,3,4,388,3-Jul-20,388,3-Jul-20,388,3-Jul-20,New PC set up,385,3-Jul-20,1,1 can't connect on new PC,6
+24,3,4,388,3-Jul-20,388,3-Jul-20,388,3-Jul-20,Laptop and 1 maintainance,385,3-Jul-20,1,3 exit frequently,6
+25,3,4,388,3-Jul-20,388,3-Jul-20,388,3-Jul-20,Laptop and 1 maintainance,385,3-Jul-20,1,3 exit frequently,6
+26,3,4,388,3-Jul-20,388,3-Jul-20,388,3-Jul-20,insert sub1 in require raw,385,3-Jul-20,1,3 production order error,6
+27,1,4,386,3-Jul-20,386,3-Jul-20,386,3-Jul-20,Unicode Install,385,3-Jul-20,4,Unicode Error,6
+28,2,4,386,3-Jul-20,386,3-Jul-20,386,3-Jul-20,Create BP code KY-019 on 2 CMS,385,3-Jul-20,3, WSR New Customer BP code create,6
+29,1,4,386,3-Jul-20,386,3-Jul-20,386,3-Jul-20,Office Crack,385,3-Jul-20,1,Excel Filter Error,6
+30,1,4,386,3-Jul-20,386,3-Jul-20,386,3-Jul-20,Edit in Regedit file,385,3-Jul-20,1,MS Team in Outlook cannot open error,6
+14,1,4,386,3-Jul-20,386,3-Jul-20,386,3-Jul-20,Cannon MF4750 Printer Installation,385,3-Jul-20,4,Cannon MF4750 Printer Installation,6
+31,1,4,386,3-Jul-20,386,3-Jul-20,386,3-Jul-20,Kaspersky Installation and Activate,385,3-Jul-20,4,Kaspersky Installation and Activate,6
+32,1,4,386,3-Jul-20,386,3-Jul-20,386,3-Jul-20,Kaspersky Installation and Activate,385,3-Jul-20,4,Kaspersky Installation and Activate,6
+33,1,4,386,3-Jul-20,386,3-Jul-20,386,3-Jul-20,Kaspersky Installation and Activate,385,3-Jul-20,4,Kaspersky Installation and Activate,6
+34,1,4,386,3-Jul-20,386,3-Jul-20,386,3-Jul-20,Outlook Setting Change,385,3-Jul-20,4,Outlook Mail Receive Error,6
+21,5,4,389,4-Jul-20,389,4-Jul-20,389,4-Jul-20,Solved by 5,385,24-Sep-20,2,Rule Set Fault,7
+35,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,New PC,385,6-Jul-20,4,New PC Setup,2
+36,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,New PC,385,6-Jul-20,4,New PC Setup,2
+37,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,New PC,385,6-Jul-20,4,New PC Setup,2
+18,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,New PC,385,6-Jul-20,4,New PC Setup,2
+38,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,New PC,385,6-Jul-20,4,New PC Setup,2
+39,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,New PC,385,6-Jul-20,4,New PC Setup,2
+40,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,New PC,385,6-Jul-20,4,New PC Setup,2
+41,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,Office Activate,385,6-Jul-20,4,Office Activate,2
+Moe 33 Khine,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,Wifi Error Fixed,385,6-Jul-20,4,Wifi Erroe Fixed,2
+43,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,Office Activate,385,6-Jul-20,4,Office Activate,2
+44,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,Scanner Setup,385,6-Jul-20,4,Scanner Setup,2
+45,1,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,Outlook Setup,385,6-Jul-20,4,Outlook Setup,2
+46,1,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,Mail Profile Re-Setup,385,6-Jul-20,4,Mail Setup in PC,2
+47,1,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,Office Repair,385,6-Jul-20,4,Outlook not Response Error,2
+28,2,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,Create BP code BW-091 on 2 CMS,385,6-Jul-20,3, WSR New Customer BP code create,2
+8,2,4,386,7-Jul-20,386,7-Jul-20,386,7-Jul-20,Create BP code MSS-069 on 2 CMS,385,7-Jul-20,3, WSR New Customer BP code create,3
+48,2,4,386,7-Jul-20,386,7-Jul-20,386,7-Jul-20,Create BP code A1-047 on 2 CMS,385,7-Jul-20,3, WSR New Customer BP code create,3
+49,1,4,386,7-Jul-20,386,7-Jul-20,386,7-Jul-20,Mail Profile Re-Setup,385,7-Jul-20,1,Outlook Mail Error,3
+50,1,4,386,7-Jul-20,386,7-Jul-20,386,7-Jul-20,Update Browser Version,385,7-Jul-20,1,Team Cannot Open in Browser,3
+51,1,4,386,7-Jul-20,386,7-Jul-20,386,7-Jul-20,Mail Profile Re-Setup and Office Crack,385,7-Jul-20,1,Outlook Mail Error,3
+9,1,4,386,7-Jul-20,386,7-Jul-20,386,7-Jul-20,Clean Temp File and Uninstall Useless app,385,7-Jul-20,1,Window Maintenance,3
+18,3,4,388,7-Jul-20,388,7-Jul-20,388,7-Jul-20,VPN and 1 Account set up on new PC,385,8-Jul-20,4,1 and VPN can't login,3
+52,3,4,388,7-Jul-20,388,7-Jul-20,388,7-Jul-20,Rent the temporary 1 account,385,8-Jul-20,1,1 black screen error,3
+53,4,4,388,7-Jul-20,388,7-Jul-20,388,22-Jul-20,Provides credit notes for barred sims by Telenor,385,24-Sep-20,5,Charges for barred sims are including in June Invo,3
+54,4,4,388,7-Jul-20,388,7-Jul-20,388,15-Jul-20,5 to Telenor to send Credit Notes,385,24-Sep-20,5,Charges for barred sims are including in June Invo,3
+55,1,4,385,8-Jul-20,385,8-Jul-20,385,8-Jul-20,5 check,385,8-Jul-20,1,5 check,4
+56,1,4,385,8-Jul-20,385,8-Jul-20,385,8-Jul-20,Scanner Software setup,385,8-Jul-20,4,Scanner Software setup,4
+57,1,4,385,8-Jul-20,385,8-Jul-20,385,8-Jul-20,Windows and Office activate,385,8-Jul-20,1,Windows and Office activate,4
+52,3,4,388,8-Jul-20,388,8-Jul-20,388,8-Jul-20,Change the own remote  account,385,8-Jul-20,1,To change the own remote account,4
+24,3,4,388,8-Jul-20,388,8-Jul-20,388,8-Jul-20,Find the password in VPN master Data,385,8-Jul-20,1,NotePad which keep VPN passwords accendently delet,4
+8,2,4,386,8-Jul-20,386,8-Jul-20,386,8-Jul-20,Create BP code BE-147 on 2 CMS,385,8-Jul-20,1, WSR New Customer BP code create,4
+37,1,4,386,8-Jul-20,386,8-Jul-20,386,8-Jul-20,Unicode Setup,385,8-Jul-20,1,Unicode Installation,4
+58,1,4,386,8-Jul-20,386,8-Jul-20,386,8-Jul-20,Team Uninstall and Re-Install,385,8-Jul-20,1,Team Recoder Error,4
+59,1,4,386,8-Jul-20,386,8-Jul-20,386,8-Jul-20,PC Reset and Outlook Profile Re-Setup,385,8-Jul-20,4,PC Reset and Outlook Setup,4
+60,1,4,386,8-Jul-20,386,8-Jul-20,386,8-Jul-20,Unicode Setup,385,8-Jul-20,1,Unicode Installation,4
+61,3,4,388,9-Jul-20,388,9-Jul-20,388,9-Jul-20,Plug in the network cable tightly,385,9-Jul-20,4,VPN frequently exit problem,5
+62,3,4,388,9-Jul-20,388,9-Jul-20,388,9-Jul-20,Fix the existing customized query by MIT,385,9-Jul-20,3,Sales documents for KY customers are not mapped fo,5
+8,2,4,386,9-Jul-20,386,9-Jul-20,386,9-Jul-20,Create BP code BE-127 on 2 CMS,385,9-Jul-20,3, WSR New Customer BP code create,5
+63,1,4,386,9-Jul-20,386,9-Jul-20,386,9-Jul-20,Outlook Profile Re-Setup,385,9-Jul-20,1,Outlook Mail Error,5
+64,4,4,388,9-Jul-20,388,9-Jul-20,8,8,8,385,24-Sep-20,8,Outstanding amount 9500 Ks and when top up 4000 of,5
+65,1,4,385,10-Jul-20,385,10-Jul-20,385,10-Jul-20,Windows and Office activate,385,10-Jul-20,1,Windows and Office activate,6
+66,1,4,386,10-Jul-20,386,10-Jul-20,386,10-Jul-20,Sanner Setup and Test,385,10-Jul-20,4,MS217W Sanner cannot scan issue,6
+8,2,4,386,10-Jul-20,386,10-Jul-20,386,10-Jul-20,Create BP code BE-127 on 2 CMS,385,10-Jul-20,3, WSR New Customer BP code create,6
+67,1,4,386,10-Jul-20,386,10-Jul-20,386,13-Jul-20,Window 10 pro Setup and Office Install,385,13-Jul-20,4,Window  Re-Setup,6
+68,1,4,386,13-Jul-20,386,13-Jul-20,386,13-Jul-20,Outlook Profile Re-Setup,385,13-Jul-20,1,Outlook Mail Issue,2
+69,1,4,386,13-Jul-20,386,13-Jul-20,386,13-Jul-20,Outlook Rule Re-Create,385,13-Jul-20,4,Outlook Rule Issue,2
+27,1,4,386,13-Jul-20,386,13-Jul-20,386,13-Jul-20,Outlook Profile Re-Setup,385,13-Jul-20,1,Outlook Cannot Open Issue,2
+70,1,4,386,13-Jul-20,386,13-Jul-20,386,13-Jul-20,Outlook Profile Re-Setup,385,13-Jul-20,4,Outlook Cannot Open Issue,2
+71,1,4,385,13-Jul-20,385,13-Jul-20,385,13-Jul-20,Unicode font for new laptop,385,13-Jul-20,4,Unicode font for new laptop,2
+72,1,4,385,13-Jul-20,385,13-Jul-20,385,13-Jul-20,email address support,385,13-Jul-20,1,email address support,2
+34,1,4,385,13-Jul-20,385,13-Jul-20,385,13-Jul-20,Windows date format change,385,13-Jul-20,1,Windows date format change,2
+Aung 17,1,4,385,13-Jul-20,385,13-Jul-20,385,13-Jul-20,office uninstall/reinstall and Phone email setup,385,13-Jul-20,4,office uninstall/reinstall and Phone email setup,2
+74,1,4,385,13-Jul-20,385,13-Jul-20,385,13-Jul-20,Printer setup,385,13-Jul-20,4,Printer setup,2
+48,2,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,Create BP code  BS-045 on 2 CMS,385,14-Jul-20,3, WSR New Customer BP code create,3
+8,2,4,390,14-Jul-20,390,14-Jul-20,390,14-Jul-20,Create BP code BW2-038  on 2 CMS,385,14-Jul-20,3, WSR New Customer BP code create,3
+75,1,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,Print Spooler Restart,385,14-Jul-20,1,Print Error,3
+76,1,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,Window Update and Office Repair,385,14-Jul-20,4,Unicode Error in Excel ,3
+77,1,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,Office Repair,385,14-Jul-20,4,Office Repair,3
+38,1,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,LBP2900 Printer Installation and Setup,385,14-Jul-20,1,LBP2900 Printer Installation,3
+78,1,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,New PC Setup,385,14-Jul-20,4,New PC Setup,3
+79,1,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,New PC Setup,385,14-Jul-20,4,New PC Setup,3
+19,1,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,New PC Setup,385,14-Jul-20,4,New PC Setup,3
+80,1,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,New PC Setup,385,14-Jul-20,4,New PC Setup,3
+81,1,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,New PC Setup,385,14-Jul-20,4,New PC Setup,3
+82,1,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,New PC Setup,385,14-Jul-20,4,New PC Setup,3
+83,1,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,New PC Setup,385,14-Jul-20,4,New PC Setup,3
+72,1,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,New PC Setup,385,14-Jul-20,4,New PC Setup,3
+84,2,4,391,14-Jul-20,391,14-Jul-20,391,14-Jul-20,Manual synced,385,14-Jul-20,3,Manual sync,3
+85,2,4,391,14-Jul-20,391,14-Jul-20,391,14-Jul-20,Manual synced,385,14-Jul-20,3,Manual sync,3
+85,2,4,391,14-Jul-20,391,14-Jul-20,391,14-Jul-20,Manual synced,385,14-Jul-20,3,Manual sync,3
+86,1,4,386,15-Jul-20,386,15-Jul-20,386,15-Jul-20,Outlook Re-Setup/ Team Installation,385,15-Jul-20,4,8,4
+87,1,4,385,16-Jul-20,385,16-Jul-20,385,16-Jul-20,close outlook and reopen,385,16-Jul-20,4,Outlook message box popup,5
+19,1,4,386,16-Jul-20,386,16-Jul-20,386,16-Jul-20,Data Backup,385,16-Jul-20,4,Data Backup,5
+66,1,4,386,16-Jul-20,386,16-Jul-20,386,16-Jul-20,Print Driver Update,385,16-Jul-20,4,Printer Error,5
+88,1,4,386,16-Jul-20,386,16-Jul-20,386,16-Jul-20,Clean Temp file in Registry Editor,385,16-Jul-20,4,Excel cannot open in outlook,5
+38,1,4,386,16-Jul-20,386,16-Jul-20,386,16-Jul-20,Scanner T700W Driver Install and Setup,385,16-Jul-20,4,Scanner T700W Install,5
+89,2,4,390,17-Jul-20,390,17-Jul-20,390,17-Jul-20,Delete Invoice379355 on 2 Live CMS,385,17-Jul-20,3,YGN ?? MDY ???? Transfer ????????????  TRF 68318??,6
+90,2,4,390,17-Jul-20,390,17-Jul-20,390,17-Jul-20,Syncs the data on 2 Live CMS,385,17-Jul-20,3,QUEEN STAR 30CC (688cards)(Mfd 16-Jul-20/Exp 15-Ju,6
+81,1,4,386,17-Jul-20,386,17-Jul-20,386,17-Jul-20,Data Backup and Mail Setup in PC,385,17-Jul-20,4,Data Backup and Mail Setup in PC,6
+91,1,4,385,17-Jul-20,385,17-Jul-20,385,17-Jul-20,temp clean and restart,385,17-Jul-20,4,Windows hang,6
+92,1,4,385,17-Jul-20,385,17-Jul-20,385,17-Jul-20,outlook temp cleaning,385,17-Jul-20,4,email attach error,6
+91,1,4,385,17-Jul-20,385,17-Jul-20,385,17-Jul-20,windows activate,385,17-Jul-20,4,windows activate,6
+93,1,4,385,17-Jul-20,385,17-Jul-20,385,17-Jul-20,Windows install,385,17-Jul-20,4,Windows install,6
+94,1,4,385,17-Jul-20,385,17-Jul-20,385,17-Jul-20,5 setup in outlook,385,17-Jul-20,1,5 setup,6
+95,2,4,390,17-Jul-20,390,17-Jul-20,390,17-Jul-20,Syncs the data on 2 Live CMS,385,17-Jul-20,3,Primer 5Lit (200cards)(Mfd 16-Jul-20/Exp 15-Jul-22,6
+84,2,4,391,17-Jul-20,391,17-Jul-20,391,17-Jul-20,Manual synced,385,17-Jul-20,3,Manual sync,6
+96,1,4,385,21-Jul-20,385,21-Jul-20,385,21-Jul-20,teams login,385,21-Jul-20,1,teams error,3
+97,1,4,385,21-Jul-20,385,21-Jul-20,385,21-Jul-20,Network printer setup,385,21-Jul-20,1,Network Printer,3
+98,1,4,385,21-Jul-20,385,21-Jul-20,385,21-Jul-20,office activate,385,21-Jul-20,1,Office Activate,3
+99,1,4,387,21-Jul-20,387,21-Jul-20,387,21-Jul-20,Printer Roller Cleaning,385,21-Jul-20,4,Printer Roller,3
+100,1,4,385,21-Jul-20,385,21-Jul-20,385,21-Jul-20,Office Uninstall/reinstall,385,21-Jul-20,4,Office Uninstall/reinstall,3
+101,1,4,385,21-Jul-20,385,21-Jul-20,385,21-Jul-20,One Drive login,385,21-Jul-20,1,One Drive login,3
+102,1,4,386,21-Jul-20,386,21-Jul-20,386,21-Jul-20,Mail Profile Re-setup,385,21-Jul-20,1,5 Error,3
+19,1,4,386,21-Jul-20,386,21-Jul-20,386,21-Jul-20,LiDE220 Scanner Setup,385,21-Jul-20,4,LiDE220 Scanner Setup,3
+64,1,4,386,21-Jul-20,386,21-Jul-20,386,21-Jul-20,Scanner Setup and Mail Re-Setup,385,21-Jul-20,4,Scanner Setup and Mail Re-Setup,3
+103,1,4,386,21-Jul-20,386,21-Jul-20,386,21-Jul-20,Team Pw Reset and Re-Login,385,21-Jul-20,1,Team Login Error,3
+8,2,4,386,21-Jul-20,386,21-Jul-20,386,21-Jul-20,Create BP code A1-113 on 2 CMS,385,21-Jul-20,3, WSR New Customer BP code create,3
+48,2,4,386,21-Jul-20,386,21-Jul-20,386,21-Jul-20,Create BP code SE-077  on 2 CMS,385,21-Jul-20,3, WSR New Customer BP code create,3
+104,2,4,386,21-Jul-20,386,21-Jul-20,386,21-Jul-20,Create BP code A1-076 on 2 CMS,385,21-Jul-20,3, WSR New Customer BP code create,3
+105,1,4,386,21-Jul-20,386,21-Jul-20,386,21-Jul-20,Uninstall 8 Language and Install Unicode,385,21-Jul-20,1,Unicode Error,3
+106,1,4,386,21-Jul-20,386,21-Jul-20,386,21-Jul-20,Espon V39 Scanner Installation and Mail Setup,385,21-Jul-20,1,Espon V39 Scanner Installation and Mail Setup,3
+107,1,4,385,21-Jul-20,385,21-Jul-20,385,21-Jul-20,Outlook setup,385,21-Jul-20,4,Outlook setup,3
+84,2,4,391,21-Jul-20,391,21-Jul-20,391,21-Jul-20,Manual synced,385,21-Jul-20,3,Manual sync,3
+108,1,4,387,22-Jul-20,387,22-Jul-20,387,22-Jul-20,New PC Setup,385,22-Jul-20,4,New PC Setup,4
+109,1,4,387,22-Jul-20,387,22-Jul-20,387,22-Jul-20,Mail Setup,385,22-Jul-20,4,Mail Setup,4
+64,1,4,386,22-Jul-20,386,22-Jul-20,386,22-Jul-20,Printer LBP 6000 Installation,385,22-Jul-20,1,Printer LBP 6000 Installation,4
+48,2,4,386,22-Jul-20,386,22-Jul-20,386,22-Jul-20,Create BP code A1-077 on 2 CMS,385,22-Jul-20,3, WSR New Customer BP code create,4
+48,2,4,386,22-Jul-20,386,22-Jul-20,386,22-Jul-20,Create BP code A2-101 on 2 CMS,385,22-Jul-20,3, WSR New Customer BP code create,4
+48,2,4,386,23-Jul-20,386,23-Jul-20,386,23-Jul-20,Create BP code A2-111 on 2 CMS,385,23-Jul-20,3, WSR New Customer BP code create,5
+48,2,4,386,24-Jul-20,386,24-Jul-20,386,24-Jul-20,Create BP code SE-078 on 2 CMS,385,24-Jul-20,3, WSR New Customer BP code create,6
+84,2,4,391,24-Jul-20,391,24-Jul-20,391,24-Jul-20,Manual synced,385,24-Jul-20,3,Manual sync,6
+84,2,4,391,24-Jul-20,391,24-Jul-20,391,24-Jul-20,Manual synced,385,24-Jul-20,3,Manual sync,6
+110,4,4,388,27-Jul-20,388,27-Jul-20,388,1-Aug-20,5 to Telenor,385,7-Aug-20,5,Outstanding amount is appeared and when top up/ th,2
+111,1,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Outlook Profile Re-Setup,385,28-Jul-20,4,Outlook Cannot Open,3
+8,2,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Create BP code MSS-067 on 2 CMS,385,28-Jul-20,3, WSR New Customer BP code create,3
+112,1,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Clear Outlook Secure Temps in Registry editor,385,28-Jul-20,1,Excel Attach File cannot open in Outlook,3
+113,1,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Clear Outlook Secure Temps in Registry editor,385,28-Jul-20,1,Excel Attach File cannot open in Outlook,3
+114,1,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Clear Outlook Secure Temps in Registry editor,385,28-Jul-20,1,Excel Attach File cannot open in Outlook,3
+115,1,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Mail Setting Change,385,28-Jul-20,1,5 Send/Receive Error,3
+99,1,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Setup with new RJ46,385,28-Jul-20,4,Network Cable RJ45 Issue ,3
+116,1,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Setup with new RJ46,385,28-Jul-20,4,Network Cable RJ45 Issue ,3
+117,1,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Setup with new RJ47,385,28-Jul-20,4,Network Cable RJ45 Issue ,3
+118,1,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Setup with new RJ48,385,28-Jul-20,4,Network Cable RJ45 Issue ,3
+119,1,4,386,28-Jul-20,386,28-Jul-20,386,28-Jul-20,Zoom password Restart,385,28-Jul-20,4,Zoom password error,3
+69,1,4,386,29-Jul-20,386,29-Jul-20,386,29-Jul-20,New PC Setup,385,29-Jul-20,4,New PC Setup,4
+28,2,4,386,30-Jul-20,386,30-Jul-20,386,30-Jul-20,Create BP code M1-108 on 2 CMS,385,30-Jul-20,3, WSR New Customer BP code create,5
+85,2,4,391,30-Jul-20,391,30-Jul-20,391,30-Jul-20,Manual synced,385,30-Jul-20,3,Manual sync,5
+120,1,4,386,31-Jul-20,386,31-Jul-20,386,31-Jul-20,Office Crack,385,31-Jul-20,1,Office Activate Fail,6
+121,1,4,386,1-Aug-20,386,1-Aug-20,386,1-Aug-20,Excel Data Recover and Outlook Re-Setup,385,1-Aug-20,1,Excel Data Recover and Outlook Re-Setup,7
+122,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+123,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+124,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+125,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+126,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+127,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+59,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+128,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+129,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+130,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+131,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+132,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+133,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+134,4,4,388,1-Aug-20,388,1-Aug-20,388,5-Aug-20,5 to Telenor,385,7-Aug-20,5,The sims are change to prepaid sim instead of corp,7
+69,1,4,386,5-Aug-20,386,5-Aug-20,386,5-Aug-20,Printer LBP 2900 Setup,385,5-Aug-20,4,Printer LBP 2900 Setup,4
+135,1,4,386,5-Aug-20,386,5-Aug-20,386,5-Aug-20,Office Crack,385,5-Aug-20,4,Office Activate Fail,4
+136,2,4,390,5-Aug-20,390,5-Aug-20,390,5-Aug-20,Create item code (WS1239A-A-CP-NF1PACK Betel Vine ,385,5-Aug-20,3,Item code description,4
+137,1,4,386,5-Aug-20,386,5-Aug-20,386,5-Aug-20,Printer Re-Setup,385,5-Aug-20,4,Printer Paper Unprint Error,4
+138,1,4,386,5-Aug-20,386,5-Aug-20,386,5-Aug-20,Wifi Driver Uninstall and Re-Install,385,5-Aug-20,4,Wifi Error,4
+139,1,4,386,5-Aug-20,386,5-Aug-20,386,5-Aug-20,Printer Wifi Re-Setup,385,5-Aug-20,4,Printer Wifi Issue,4
+140,1,4,386,5-Aug-20,386,5-Aug-20,386,6-Aug-20,Window Setup and Software Install,385,6-Aug-20,4,Acer Window Setup,4
+67,1,4,386,6-Aug-20,386,6-Aug-20,386,6-Aug-20,Adobe Re-Install/ Printer Driver Install,385,6-Aug-20,4,Adobe Error/ Espon L310 Setup,5
+111,1,4,386,6-Aug-20,386,6-Aug-20,386,6-Aug-20,Outlook Profile Re-Setup,385,6-Aug-20,1,Outlook Cannot Open,5
+17,1,4,386,6-Aug-20,386,6-Aug-20,386,6-Aug-20,Unicode Install and fixed,385,6-Aug-20,1,Unicode Issue ,5
+142,1,4,386,6-Aug-20,386,6-Aug-20,386,6-Aug-20,Wifi Driver Download and Install,385,6-Aug-20,4,Wifi Error,5
+53,4,4,388,6-Aug-20,388,6-Aug-20,388,11-Aug-20,Credit Notes provided again by Telenor,385,11-Aug-20,5,Charges for barring sims are included in July Bill,5
+143,4,4,388,6-Aug-20,388,6-Aug-20,388,11-Aug-20,Credit Notes provided again by Telenor,385,11-Aug-20,5,Charges for barring sims are included in July Bill,5
+28,2,4,390,7-Aug-20,390,7-Aug-20,390,7-Aug-20,Create BP code RK-039 on 2 CMS,385,7-Aug-20,3, WSR New Customer BP code create,6
+144,1,4,385,7-Aug-20,385,7-Aug-20,385,7-Aug-20,clear temp and remove add in,385,7-Aug-20,4,windows delay,6
+79,1,4,385,7-Aug-20,385,7-Aug-20,385,7-Aug-20,email setup,385,7-Aug-20,1,email setup,6
+104,2,4,386,7-Aug-20,386,7-Aug-20,386,7-Aug-20,Create BP code A1-078 on 2 CMS,385,7-Aug-20,3, WSR New Customer BP code create,6
+145,1,4,386,7-Aug-20,386,7-Aug-20,386,7-Aug-20,Office Re-Install,385,7-Aug-20,1,Outlook Software Error,6
+3 Users,3,4,388,9-Aug-20,388,9-Aug-20,392,9-Aug-20,Shut Down Terminal and Restart,385,9-Aug-20,3,Network Connector Error,1
+79,1,4,385,10-Aug-20,385,10-Aug-20,385,10-Aug-20,Laptop and Projector not connected,385,10-Aug-20,1,Laptop and Projector not connected,2
+147,1,4,385,10-Aug-20,385,10-Aug-20,385,10-Aug-20,Office activate,385,10-Aug-20,1,Office activate,2
+148,1,4,385,10-Aug-20,385,10-Aug-20,385,10-Aug-20,email create,385,10-Aug-20,3,email create,2
+48,2,4,390,10-Aug-20,390,10-Aug-20,390,10-Aug-20,Create BP code BE2-048 on 2 CMS,385,10-Aug-20,3, MKTK New Customer BP code create,2
+149,1,4,386,10-Aug-20,386,10-Aug-20,386,10-Aug-20,Scanner LiDe 220 Driver Installation,385,10-Aug-20,4,Scanner Lide220 Setup,2
+137,1,4,386,10-Aug-20,386,10-Aug-20,386,10-Aug-20,Window Crack and Printer 2900 Setup,385,10-Aug-20,4,Winow Activate Fail and Printer Install,2
+150,1,4,386,10-Aug-20,386,10-Aug-20,386,10-Aug-20,Print Troubleshoot and Fixed,385,10-Aug-20,4,Printer Error,2
+151,1,4,386,10-Aug-20,386,10-Aug-20,386,10-Aug-20,Scanner LiDe 220 Driver Installation,385,10-Aug-20,4,Scanner Lide220 Setup,2
+152,1,4,386,10-Aug-20,386,10-Aug-20,386,10-Aug-20,Scanner LiDe 220 Driver Installation,385,10-Aug-20,4,Scanner Lide220 Setup,2
+121,1,4,386,10-Aug-20,386,10-Aug-20,386,10-Aug-20,Viber Setup,385,10-Aug-20,1,Viber web application Installation,2
+153,1,4,386,10-Aug-20,386,10-Aug-20,386,10-Aug-20,Window 10 Setup and Software Install,385,10-Aug-20,4,Window 10 Pro Setup and Software Install,2
+154,1,4,386,10-Aug-20,386,10-Aug-20,386,11-Aug-20,Window 10 Pro Setup and Software Install,385,11-Aug-20,4,Window 10 Pro Setup and Software Install,2
+155,3,4,388,10-Aug-20,388,10-Aug-20,388,10-Aug-20,Guide the way of going COA to respective document ,385,10-Aug-20,1,Incoming Payment document can't cancel ( because t,2
+48,2,4,391,10-Aug-20,391,10-Aug-20,391,10-Aug-20,Create ware house code M4-MTR-000 in loyalty CMS,385,12-Aug-20,3, WSR New Customer BP code create,2
+61,3,4,388,11-Aug-20,388,11-Aug-20,388,11-Aug-20,Disconnect the wireless connection ,385,11-Aug-20,4,Hana can't connect due to id's PC network issue.,3
+156,3,4,388,11-Aug-20,388,11-Aug-20,388,11-Aug-20,Import from Data Transfer Workbench(DTW) and the d,385,24-Sep-20,8,To import resource master data from excel,3
+55,1,4,386,11-Aug-20,386,11-Aug-20,386,11-Aug-20,Microsoft Office Repair,385,11-Aug-20,1,Excel cannot open Issue,3
+157,1,4,385,11-Aug-20,385,11-Aug-20,385,11-Aug-20,IP connection,385,12-Aug-20,4,Printer Error,3
+158,1,4,385,11-Aug-20,385,11-Aug-20,385,11-Aug-20,email create and setup,385,12-Aug-20,4,email create and setup,3
+159,1,4,385,12-Aug-20,385,12-Aug-20,385,12-Aug-20,email password support,385,12-Aug-20,2,email password,4
+160,1,4,385,12-Aug-20,385,12-Aug-20,385,12-Aug-20,Outlook re-setup,385,12-Aug-20,4,cannot open outlook,4
+161,1,4,385,12-Aug-20,385,12-Aug-20,385,12-Aug-20,pdf file zipping,385,12-Aug-20,4,pdf file zipping,4
+92,1,4,385,12-Aug-20,385,12-Aug-20,385,12-Aug-20,Outlook re-setup,385,12-Aug-20,4,cannot open outlook,4
+1,1,4,385,12-Aug-20,385,12-Aug-20,385,12-Aug-20,Office crack,385,12-Aug-20,1,Office crack,4
+162,1,4,386,12-Aug-20,386,12-Aug-20,386,12-Aug-20,Print Driver Update,385,12-Aug-20,4,Print Error,4
+75,1,4,386,12-Aug-20,386,12-Aug-20,386,12-Aug-20,Print Driver Update,385,12-Aug-20,4,Print Error,4
+163,1,4,386,12-Aug-20,386,12-Aug-20,386,12-Aug-20,Mail Profile Re-setup,385,12-Aug-20,4,5 Setup in PC,4
+163 Thant,1,4,386,12-Aug-20,386,12-Aug-20,386,12-Aug-20,Mail Profile Re-setup,385,12-Aug-20,4,5 Setup in PC,4
+86 Htun,1,4,386,12-Aug-20,386,12-Aug-20,386,13-Aug-20,Window 10 Pro Setup and Software Install,385,13-Aug-20,4,Window 10 Pro Setup and Software Install,4
+166,1,4,386,12-Aug-20,386,12-Aug-20,386,13-Aug-20,Window 10 Pro Setup and Software Install,385,13-Aug-20,4,Window 10 Pro Setup and Software Install,4
+61,1,4,386,12-Aug-20,386,12-Aug-20,386,13-Aug-20,Window 10 Pro Setup and Software Install,385,13-Aug-20,4,Window 10 Pro Setup and Software Install,4
+167,1,4,386,12-Aug-20,386,12-Aug-20,386,13-Aug-20,Window 10 Pro Setup and Software Install,385,13-Aug-20,4,Window 10 Pro Setup and Software Install,4
+168,1,4,386,12-Aug-20,386,12-Aug-20,386,13-Aug-20,Window 10 Pro Setup and Software Install,385,13-Aug-20,4,Window 10 Pro Setup and Software Install,4
+8,2,4,386,13-Aug-20,386,13-Aug-20,386,13-Aug-20,Create BP code BS-044 on 2 CMS,385,13-Aug-20,3, WSR New Customer BP code create,5
+148,1,4,386,13-Aug-20,386,13-Aug-20,386,13-Aug-20,Unicode Install and Setup,385,13-Aug-20,1,Unicode Issue,5
+169,6,4,389,13-Aug-20,389,13-Aug-20,389,13-Aug-20,Share User Manual,385,13-Aug-20,6,GPS Error,5
+170,6,4,389,13-Aug-20,389,13-Aug-20,389,13-Aug-20,Share User Manual,385,13-Aug-20,6,GPS Error,5
+169,6,4,389,13-Aug-20,389,13-Aug-20,389,13-Aug-20,Rollout Training,385,13-Aug-20,6,Rollout (G1A),5
+170,6,4,389,13-Aug-20,389,13-Aug-20,389,13-Aug-20,Rollout Training,385,13-Aug-20,6,Rollout (G1B),5
+171,6,4,389,13-Aug-20,389,13-Aug-20,389,13-Aug-20,Rollout Training,385,13-Aug-20,6,Rollout (S3A),5
+172,1,4,386,14-Aug-20,386,14-Aug-20,386,14-Aug-20,Office Crack,385,14-Aug-20,1,Office Activate Needed,6
+157,1,4,386,14-Aug-20,386,14-Aug-20,386,14-Aug-20,Kaspersky Anti-Virus Install and Activate,385,14-Aug-20,4,Kaspersky Anti-Virus Install and Activate,6
+173,5,4,389,14-Aug-20,389,14-Aug-20,389,19-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,6
+87,5,4,389,14-Aug-20,389,14-Aug-20,389,19-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,6
+21,5,4,389,14-Aug-20,389,14-Aug-20,389,19-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,6
+21,7,4,389,14-Aug-20,389,14-Aug-20,389,14-Aug-20,Request 5 for new card,385,24-Sep-20,4,GPS installation,6
+174,1,4,386,14-Aug-20,386,14-Aug-20,386,14-Aug-20,Window 10 Pro Setup and Software Install,385,14-Aug-20,4,Window 10 Pro Setup and Software Install,6
+120,1,4,386,15-Aug-20,386,15-Aug-20,386,15-Aug-20,Window Crack,385,15-Aug-20,1,Window Activate Fail,7
+175,1,4,387,17-Aug-20,387,17-Aug-20,387,17-Aug-20,New PC Setup,385,18-Aug-20,4,New Pc Setup,2
+176,1,4,387,17-Aug-20,387,17-Aug-20,387,17-Aug-20,New PC Setup,385,18-Aug-20,4,New Pc Setup,2
+177,1,4,386,17-Aug-20,386,17-Aug-20,386,17-Aug-20,Office crack,385,17-Aug-20,1,Office Acivate Fail,2
+178,1,4,386,17-Aug-20,386,17-Aug-20,386,17-Aug-20,5 Profile Setup in PC,385,17-Aug-20,4,5 Setup in PC,2
+179,1,4,386,17-Aug-20,386,17-Aug-20,386,17-Aug-20,Printer LBP 6000 Driver Install and Kaspersky Inst,385,17-Aug-20,4,Printer LBP 6000 Install and Kaspersky Install,2
+180,1,4,386,17-Aug-20,386,17-Aug-20,386,17-Aug-20,Kaspersky Install,385,17-Aug-20,4,Kaspersky Install,2
+143,1,4,386,17-Aug-20,386,17-Aug-20,386,17-Aug-20,Printer LBP 6000 Driver Install and Kaspersky Inst,385,17-Aug-20,4,Printer LBP 6000 Install and Kaspersky Install,2
+181,1,4,387,17-Aug-20,387,17-Aug-20,387,17-Aug-20,Window Licenced Activate,385,18-Aug-20,1,Window Activate Fail,2
+182,1,4,387,18-Aug-20,387,18-Aug-20,387,18-Aug-20,New PC Setup,385,18-Aug-20,4,New Pc Setup,3
+183,1,4,386,18-Aug-20,386,18-Aug-20,386,18-Aug-20,5 Send/Receive Error,385,18-Aug-20,1,5 Send/Receive Error,3
+76,1,4,386,18-Aug-20,386,18-Aug-20,386,18-Aug-20,Photoshop CS3 Install,385,18-Aug-20,4,Photoshop CS3 Install,3
+184,1,4,387,18-Aug-20,387,18-Aug-20,387,18-Aug-20,New PC Setup,385,18-Aug-20,4,New Pc Setup,3
+185,1,4,387,18-Aug-20,387,18-Aug-20,387,18-Aug-20,New PC Setup,385,18-Aug-20,4,New Pc Setup,3
+9,1,4,386,18-Aug-20,386,18-Aug-20,386,18-Aug-20,Printer Share Setting Configure,385,18-Aug-20,4,Printer Share from 8 PC's Printer,3
+186,1,4,386,18-Aug-20,386,18-Aug-20,386,18-Aug-20,FortiClient Install and Mail Setup,385,18-Aug-20,4,FortiClient Install and Mail Setup,3
+187,1,4,386,18-Aug-20,386,18-Aug-20,386,18-Aug-20,Window and Office Crack,385,18-Aug-20,4,Window and Office Activate Fail,3
+12,1,4,386,18-Aug-20,386,18-Aug-20,386,18-Aug-20,Office Crack,385,18-Aug-20,4,Office Activate Fail,3
+188,1,4,387,18-Aug-20,387,18-Aug-20,387,18-Aug-20,New PC Setup,385,18-Aug-20,4,New Pc Setup,3
+189,1,4,387,18-Aug-20,387,18-Aug-20,387,18-Aug-20,New PC Setup,385,18-Aug-20,4,Window Re-install and Battery Change,3
+190,1,4,387,18-Aug-20,387,18-Aug-20,387,18-Aug-20,New PC Setup,385,18-Aug-20,4,New Pc Setup,3
+6,2,4,391,18-Aug-20,391,18-Aug-20,391,18-Aug-20,382028/ Zeta/ 4 cards/ 29/07/2020/ Order Cancel,385,18-Aug-20,3,Awba Order Cancel,3
+69,1,4,386,18-Aug-20,386,18-Aug-20,386,18-Aug-20,printer LBP2900 and scanner V39 Install,385,18-Aug-20,1,printer LBP2900 and scanner V39 Install,3
+48,1,4,387,19-Aug-20,387,19-Aug-20,387,19-Aug-20,New PC Setup,385,19-Aug-20,4,New Pc Setup,4
+191,1,4,387,19-Aug-20,387,19-Aug-20,387,19-Aug-20,New PC Setup,385,19-Aug-20,4,New Pc Setup,4
+192,1,4,387,19-Aug-20,387,19-Aug-20,387,19-Aug-20,New PC Setup,385,19-Aug-20,4,New Pc Setup,4
+159 Tun,1,4,387,19-Aug-20,387,19-Aug-20,387,19-Aug-20,New PC Setup,385,19-Aug-20,4,New Pc Setup,4
+17,1,4,387,19-Aug-20,387,19-Aug-20,387,19-Aug-20,New PC Setup,385,19-Aug-20,4,New Pc Setup,4
+195,1,4,387,19-Aug-20,387,19-Aug-20,387,19-Aug-20,New PC Setup,385,19-Aug-20,4,New Pc Setup,4
+196,1,4,387,19-Aug-20,387,19-Aug-20,387,19-Aug-20,5 Password Fixed,385,19-Aug-20,1,5 Send/Receive Error,4
+197,1,4,387,19-Aug-20,387,19-Aug-20,387,19-Aug-20,5 Setup,385,19-Aug-20,4,5 Setup,4
+173,5,4,389,19-Aug-20,389,19-Aug-20,389,19-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,4
+173,5,4,389,19-Aug-20,389,19-Aug-20,389,19-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,4
+173,5,4,389,19-Aug-20,389,19-Aug-20,389,19-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,4
+173,5,4,389,19-Aug-20,389,19-Aug-20,389,19-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,4
+173,5,4,389,19-Aug-20,389,19-Aug-20,389,19-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,4
+87,5,4,389,19-Aug-20,389,19-Aug-20,389,19-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,4
+21,5,4,389,19-Aug-20,389,19-Aug-20,389,19-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,4
+Tun 93,6,4,389,19-Aug-20,389,19-Aug-20,389,19-Aug-20,Rollout Training,385,19-Aug-20,6,Rollout (SEA),4
+199,2,4,391,20-Aug-20,391,20-Aug-20,391,20-Aug-20,AW1343A-A-EC-IN001LT/ PHYOTE KING 500EC 1Liter/ It,385,20-Aug-20,3,Awba Item Code Create,5
+199,2,4,391,20-Aug-20,391,20-Aug-20,391,20-Aug-20,AW1343A-A-EC-IN500CC/ PHYOTE KING 500EC 500CC/ Ite,385,20-Aug-20,3,Awba Item Code Create,5
+200,1,4,386,20-Aug-20,386,20-Aug-20,386,20-Aug-20,English to Myanmar Dictionary Install,385,20-Aug-20,4,English to Myanmar Dictionary Install,5
+157,1,4,386,20-Aug-20,386,20-Aug-20,386,20-Aug-20,Clean Temp file and PC maintenance,385,20-Aug-20,4,Outlook stop issue,5
+201,1,4,386,20-Aug-20,386,20-Aug-20,386,20-Aug-20,Office Install,385,20-Aug-20,4,Office Install,5
+202,1,4,386,20-Aug-20,386,20-Aug-20,386,20-Aug-20,Network release and renew,385,20-Aug-20,4,Network Connection Fail,5
+115,1,4,386,20-Aug-20,386,20-Aug-20,386,20-Aug-20,Unicode Install and Setup,385,20-Aug-20,1,Unicode Error,5
+203,1,4,386,20-Aug-20,386,20-Aug-20,386,20-Aug-20,Window Crack,385,20-Aug-20,1,Window Activate Fail,5
+204,1,4,386,20-Aug-20,386,20-Aug-20,386,20-Aug-20,Window Setup and Software Install,385,20-Aug-20,4,Window Setup and Software Install,5
+205,1,4,387,20-Aug-20,387,20-Aug-20,387,20-Aug-20,Office Crack,385,20-Aug-20,4,Office Activate Fail,5
+206,1,4,387,20-Aug-20,387,20-Aug-20,387,20-Aug-20,MS Authentication,385,20-Aug-20,4,MS Authentication,5
+14,1,4,387,20-Aug-20,387,20-Aug-20,387,20-Aug-20,Excel Issue Fixed,385,20-Aug-20,4,Excel Error,5
+13,1,4,387,20-Aug-20,387,20-Aug-20,387,20-Aug-20,Scanner Driver Installation,385,20-Aug-20,4,Scanner Error,5
+56,1,4,387,20-Aug-20,387,20-Aug-20,387,20-Aug-20,Office Crack,385,20-Aug-20,4,Office Activate Fail,5
+179,1,4,387,20-Aug-20,387,20-Aug-20,387,20-Aug-20,Myanmar Font Fixed,385,20-Aug-20,4,Myanmra Font Error,5
+92,1,4,386,21-Aug-20,386,21-Aug-20,386,21-Aug-20,Outlook profile Re-Setup,385,21-Aug-20,4,5 Send Error,6
+207,3,4,388,21-Aug-20,388,21-Aug-20,388,21-Aug-20,Account id change as original,385,24-Sep-20,3,Chart of Account is missing because of accidently ,6
+208,1,4,386,21-Aug-20,386,21-Aug-20,386,21-Aug-20,Print Spooler Restart,385,21-Aug-20,4,Printer cannot print,6
+209,1,4,386,21-Aug-20,386,21-Aug-20,386,21-Aug-20,Outlook profile Re-Setup,385,21-Aug-20,4,Outlook Issue,6
+210,3,4,388,21-Aug-20,388,21-Aug-20,388,21-Aug-20,Change back title with Crtl+Click to Table Header,385,24-Sep-20,3,Table Title is accendently changed by id in inco,6
+45,1,4,387,21-Aug-20,387,21-Aug-20,387,21-Aug-20,Printer Share,385,21-Aug-20,4,Printer Share,6
+69,1,4,387,21-Aug-20,387,21-Aug-20,387,21-Aug-20,Printer Share,385,21-Aug-20,4,Printer Share,6
+211,2,4,391,21-Aug-20,391,21-Aug-20,391,21-Aug-20,Zaung Htet 80GM/ 132 cards/ MFD: 20.8.2020/ Manual,385,21-Aug-20,3,PTPZ Manual sync,6
+212,6,4,389,21-Aug-20,389,21-Aug-20,389,21-Aug-20,Rollout Training,385,21-Aug-20,6,Rollout (A2A),6
+213,1,4,392,24-Aug-20,392,24-Aug-20,392,24-Aug-20,Font Install,385,24-Aug-20,4,Unicode Error,2
+188,1,4,387,24-Aug-20,387,24-Aug-20,387,24-Aug-20,Printer and Scanner Installaton,385,24-Aug-20,4,Printer and Scanner Installation,2
+214,1,4,387,24-Aug-20,387,24-Aug-20,387,24-Aug-20,Printer and Scanner Installaton,385,24-Aug-20,4,Printer and Scanner Installation,2
+215,1,4,387,24-Aug-20,387,24-Aug-20,387,24-Aug-20,MM Font Fixed,385,24-Aug-20,1,MM Fonts Fixed,2
+216,1,4,385,24-Aug-20,385,24-Aug-20,385,24-Aug-20,Zoom installation and setup,385,24-Aug-20,1,Zoom installation and setup,2
+18,1,4,386,24-Aug-20,386,24-Aug-20,386,24-Aug-20,Outlook profile Re-Setup,385,24-Aug-20,4,Outlook Error,2
+140,1,4,386,24-Aug-20,386,24-Aug-20,386,24-Aug-20,Printer Connect,385,24-Aug-20,4,Printer Connect,2
+217,1,4,386,24-Aug-20,386,24-Aug-20,386,24-Aug-20,Office Crack,385,24-Aug-20,1,Office Activate Fail,2
+218,1,4,386,24-Aug-20,386,24-Aug-20,386,24-Aug-20,Window Re-Setup and Software Install,385,24-Aug-20,4,Blue Screen Issue,2
+219,1,4,386,24-Aug-20,386,24-Aug-20,386,24-Aug-20,Window Setup and Software Install,385,24-Aug-20,4,Window Setup and Software Install,2
+220,1,4,386,25-Aug-20,386,25-Aug-20,386,25-Aug-20,5 Setup in PC and Office Crack,385,25-Aug-20,4,5 Setup in PC and Office Activate Fail,3
+70,5,4,389,25-Aug-20,389,25-Aug-20,389,26-Aug-20,5 new card request to 5,385,24-Sep-20,5,Request New Card,3
+221,5,4,389,25-Aug-20,389,25-Aug-20,389,25-Aug-20,Update Quota,385,24-Sep-20,3,Quota update request,3
+21,5,4,389,25-Aug-20,389,25-Aug-20,389,25-Aug-20,Reach Limit,385,24-Sep-20,2,Rule Set Fault,3
+74,5,4,389,25-Aug-20,389,25-Aug-20,389,31-Aug-20,Request 5 for new card,385,24-Sep-20,5,New Card Request,3
+70,5,4,389,25-Aug-20,389,25-Aug-20,389,25-Aug-20,Update Quota,385,24-Sep-20,3,Quota update request,3
+222,1,4,392,25-Aug-20,392,25-Aug-20,392,25-Aug-20,8,385,25-Aug-20,3,Office 365 Account Create,3
+139,1,4,386,25-Aug-20,386,25-Aug-20,386,25-Aug-20,Add new port with printer's ip address,385,25-Aug-20,4,Cannot print Error ,3
+21,1,4,386,25-Aug-20,386,25-Aug-20,386,25-Aug-20,DHCP release / renew,385,25-Aug-20,4,Wifi Error,3
+223,1,4,386,25-Aug-20,386,25-Aug-20,386,25-Aug-20,Office Crack,385,25-Aug-20,1,Office Activate Fail,3
+66,1,4,386,25-Aug-20,386,25-Aug-20,386,25-Aug-20,Printer driver uninstall and re-install,385,25-Aug-20,4,Printer Error,3
+121,1,4,387,25-Aug-20,387,25-Aug-20,387,25-Aug-20,Factory Reset,385,25-Aug-20,4,Hang Error,3
+48,2,4,386,25-Aug-20,386,25-Aug-20,386,25-Aug-20,Create BP code BE-128 on 2 CMS,385,25-Aug-20,3, WSR New Customer BP code create,3
+21,7,4,389,25-Aug-20,389,25-Aug-20,389,25-Aug-20,Account Create,385,24-Sep-20,3,Account Create,3
+85 Myint,1,4,392,26-Aug-20,392,26-Aug-20,392,26-Aug-20,Reid an Reset password from 3,385,26-Aug-20,3,Account Name Change and Password Change,4
+225,1,4,386,26-Aug-20,386,26-Aug-20,386,26-Aug-20,Window Crack,385,26-Aug-20,4,Window Activate Fail,4
+226,1,4,386,26-Aug-20,386,26-Aug-20,386,26-Aug-20,Window Crack,385,26-Aug-20,4,Window Activate Fail,4
+218,1,4,387,26-Aug-20,387,26-Aug-20,387,26-Aug-20,Hdd Checking,385,26-Aug-20,4,Window Can't  Boot,4
+227,1,4,387,26-Aug-20,387,26-Aug-20,387,26-Aug-20,Internet Connection Fixed,385,26-Aug-20,4,Network Connection Fail,4
+228,1,4,387,26-Aug-20,387,26-Aug-20,387,26-Aug-20,New 5 Setup,385,26-Aug-20,4,New 5 Setup,4
+214,1,4,387,26-Aug-20,387,26-Aug-20,387,26-Aug-20,MM Font Fixed,385,26-Aug-20,4,myanmar font error,4
+229,1,4,386,26-Aug-20,386,26-Aug-20,386,26-Aug-20,Scanner Lide 300 Install and Setup,385,26-Aug-20,4,Scanner Lide 300 Install ,4
+230,5,4,389,26-Aug-20,389,26-Aug-20,389,26-Aug-20,Update Quota,385,24-Sep-20,3,Quota update request,4
+231,5,4,389,26-Aug-20,389,26-Aug-20,389,26-Aug-20,Update Quota,385,24-Sep-20,3,Quota update request,4
+232,5,4,389,26-Aug-20,389,26-Aug-20,389,26-Aug-20,Update Quota,385,24-Sep-20,3,Quota update request,4
+233,5,4,389,26-Aug-20,389,26-Aug-20,389,26-Aug-20,Update Quota,385,24-Sep-20,3,Quota update request,4
+234,5,4,389,26-Aug-20,389,26-Aug-20,389,26-Aug-20,Update Quota,385,24-Sep-20,3,Quota update request,4
+235,5,4,389,26-Aug-20,389,26-Aug-20,389,26-Aug-20,Update Quota,385,24-Sep-20,3,Quota update request,4
+210,1,4,386,27-Aug-20,386,27-Aug-20,386,27-Aug-20,Window Maintenance,385,27-Aug-20,1,Window Error,5
+159 Aung,1,4,386,27-Aug-20,386,27-Aug-20,386,27-Aug-20,Window 10 Pro Setup and mail setup in New PC,385,27-Aug-20,4,Window 10 Pro Setup and mail setup in New PC,5
+228,1,4,386,27-Aug-20,386,27-Aug-20,386,27-Aug-20,Window 10 Pro Setup and mail setup in New PC,385,27-Aug-20,4,Window 10 Pro Setup and mail setup in New PC,5
+67,1,4,386,27-Aug-20,386,27-Aug-20,386,27-Aug-20,Outlook Mail Profile Re-Setup,385,27-Aug-20,4,5 Receive Error,5
+202,1,4,387,27-Aug-20,387,27-Aug-20,387,27-Aug-20,Printer Setup,385,27-Aug-20,4,Printer Driver Setup,5
+15,1,4,387,27-Aug-20,387,27-Aug-20,387,27-Aug-20,Printer Setup,385,27-Aug-20,4,Printer Driver Setup,5
+101,1,4,387,27-Aug-20,387,27-Aug-20,387,27-Aug-20,Memory Upgrade,385,27-Aug-20,4,Memory Upgrade,5
+237,1,4,387,27-Aug-20,387,27-Aug-20,387,27-Aug-20,Office 365 setup,385,27-Aug-20,4,Office Crash,5
+238,1,4,387,27-Aug-20,387,27-Aug-20,387,27-Aug-20,Pannel Fixed,385,27-Aug-20,4,Pannel Blink,5
+74,1,4,386,27-Aug-20,386,27-Aug-20,386,27-Aug-20,Kaspersky Installation and Activate,385,27-Aug-20,4,Kaspersky Installation and Activate,5
+158,1,4,386,27-Aug-20,386,27-Aug-20,386,27-Aug-20,Printer Driver Setup,385,27-Aug-20,4,Printer Driver Setup,5
+195,1,4,392,28-Aug-20,392,28-Aug-20,392,28-Aug-20,Exit Kaspersky Antivirus (Expired) and Remove Add ,385,28-Aug-20,6,Outlook cannot open normaly,6
+92,1,4,386,28-Aug-20,386,28-Aug-20,386,28-Aug-20,Zoom Meeting App Install and Setup,385,28-Aug-20,1,Zoom Meeting App Install and Setup,6
+136,2,4,390,28-Aug-20,390,28-Aug-20,390,28-Aug-20,KT1346A-A-SL-PG100CC/KT1346A-A-SL-PG250CC/KT1346A-,385,28-Aug-20,3,KTK Item Code Create,6
+239,1,4,392,28-Aug-20,392,28-Aug-20,392,28-Aug-20,Reset by admin ,385,28-Aug-20,3,Office 365 Password Forget,6
+240,1,4,387,28-Aug-20,387,28-Aug-20,387,28-Aug-20,Office Crack,385,28-Aug-20,1,Office Activate Fail,6
+241,1,4,387,28-Aug-20,387,28-Aug-20,387,28-Aug-20,Outlook Setup,385,28-Aug-20,1,5 Setup,6
+242,1,4,387,28-Aug-20,387,28-Aug-20,387,28-Aug-20,Outlook Setup,385,28-Aug-20,1,5 Setup,6
+243,1,4,387,28-Aug-20,387,28-Aug-20,387,28-Aug-20,Outlook Setup,385,28-Aug-20,1,5 Setup,6
+244,1,4,387,28-Aug-20,387,28-Aug-20,387,28-Aug-20,Outlook Setup,385,28-Aug-20,1,5 Setup,6
+189,1,4,387,28-Aug-20,387,28-Aug-20,387,28-Aug-20,PC Switch and 5 Setup,385,28-Aug-20,4,PC Switch and 5 Setup,6
+245,1,4,387,28-Aug-20,387,28-Aug-20,387,28-Aug-20,PC Switch and 5 Setup,385,28-Aug-20,4,PC Switch and 5 Setup,6
+246,8,4,385,28-Aug-20,385,28-Aug-20,385,28-Aug-20,Blocking fake domain,385,28-Aug-20,3,Block domain request,6
+247,6,4,389,28-Aug-20,389,28-Aug-20,389,28-Aug-20,Rollout Training,385,28-Aug-20,6,Rollout (BEA),6
+248,1,4,386,31-Aug-20,386,31-Aug-20,386,31-Aug-20,Unicode Error Fixed ,385,31-Aug-20,4,Unicode Error ,2
+244,1,4,386,31-Aug-20,386,31-Aug-20,386,31-Aug-20,Virus Scan and Window Setup,385,31-Aug-20,4,Virus Scan and Window Setup,2
+189,1,4,386,31-Aug-20,386,31-Aug-20,386,31-Aug-20,Unicode Error Fixed ,385,31-Aug-20,4,Unicode Error ,2
+249,1,4,386,31-Aug-20,386,31-Aug-20,386,31-Aug-20,Add  new port with DHCP manual IP address,385,31-Aug-20,4,Espon Printer Cannot Print Issue,2
+250,1,4,386,31-Aug-20,386,31-Aug-20,386,31-Aug-20,Add  new port with DHCP manual IP address,385,31-Aug-20,4,Espon Printer Cannot Print Issue,2
+167,1,4,386,31-Aug-20,386,31-Aug-20,386,31-Aug-20,Office Repair,385,31-Aug-20,4,Excel cannot open issue,2
+8,2,4,386,31-Aug-20,386,31-Aug-20,386,31-Aug-20,Create BP code KY-027 on 2 CMS,385,31-Aug-20,3,Awba New Customer BP code create,2
+251,1,4,385,31-Aug-20,385,31-Aug-20,385,31-Aug-20,Outlook profile Re-Setup,385,8,2,outlook Issue,2
+237,1,4,385,31-Aug-20,385,31-Aug-20,385,31-Aug-20,Excel default open file,385,31-Aug-20,2,Cannot open excel file normally,2
+121,1,4,386,1-Sep-20,386,1-Sep-20,386,1-Sep-20,Viber Setup and Install,385,1-Sep-20,1,Viber Web App Needed ,3
+252,5,4,389,1-Sep-20,389,1-Sep-20,389,3-Sep-20,Update Quota,385,24-Sep-20,3,Quota update request,3
+253,1,4,385,1-Sep-20,385,1-Sep-20,385,1-Sep-20,Outlook profile Re-Setup,385,1-Sep-20,1,Outlook Not Respon,3
+254,3,4,388,1-Sep-20,388,1-Sep-20,388,1-Sep-20,End Task the 3,385,24-Sep-20,1,3 Hang Problem cause of try to quick access on s,3
+Tun 93,8,4,385,1-Sep-20,385,1-Sep-20,385,1-Sep-20,new email create,385,1-Sep-20,3,new email create,3
+255,5,4,389,1-Sep-20,389,1-Sep-20,389,3-Sep-20,Update Quota,385,24-Sep-20,3,Quota update request,3
+180,3,4,388,1-Sep-20,388,1-Sep-20,388,1-Sep-20,Define all access for Users in Excel,385,24-Sep-20,3,Cannot open excel file due to not defined all acce,3
+256,5,4,389,1-Sep-20,389,1-Sep-20,389,3-Sep-20,Update Quota,385,24-Sep-20,3,Quota update request,3
+158,1,4,386,1-Sep-20,386,1-Sep-20,386,1-Sep-20,Printer LBP 2900 Install on New Laptop/ Office Ins,385,1-Sep-20,1,Printer LBP 2900 Install on New Laptop/ Office Ins,3
+257,3,4,388,1-Sep-20,388,1-Sep-20,388,1-Sep-20,Help to create posting period,385,24-Sep-20,1,Some problem in create posting period for 21-22,3
+258,3,4,388,1-Sep-20,388,1-Sep-20,388,1-Sep-20,Change the compactable file type,385,24-Sep-20,1,Cannot open excel file due to not compactable file,3
+259,1,4,392,1-Sep-20,392,1-Sep-20,392,1-Sep-20,Zoom Training/ Storage Full,385,1-Sep-20,4,Zoom Training/ Storage Full,3
+260,1,4,385,1-Sep-20,385,1-Sep-20,385,1-Sep-20,Outlook Profile  re-setup,385,1-Sep-20,1,Outlook issue,3
+8,2,4,386,1-Sep-20,386,1-Sep-20,386,1-Sep-20,Create BP code G1-094 on 2 CMS,385,1-Sep-20,3,MKTK New Customer BP code create,3
+156,3,4,388,1-Sep-20,388,1-Sep-20,388,1-Sep-20,Create 3 64 bit software shortcut on desktop,385,24-Sep-20,4,Inventory Audit Report can't export due to 32 bit ,3
+261,1,4,385,1-Sep-20,385,1-Sep-20,385,1-Sep-20,statics IP setup,385,1-Sep-20,2,Wifi issue,3
+87,5,4,389,1-Sep-20,389,1-Sep-20,389,3-Sep-20,Update Quota,385,24-Sep-20,3,Quota update request,3
+262,3,4,388,1-Sep-20,388,1-Sep-20,388,1-Sep-20,Repair FortiClient,385,24-Sep-20,1,Hana Can't connect due to software conflict,3
+263,4,4,388,1-Sep-20,388,1-Sep-20,388,7-Sep-20,Request Telenor to Set Temporary Credit Limit for ,385,24-Sep-20,5,Telenor Corporate Credit Limit is not effective,3
+121,1,4,387,2-Sep-20,387,2-Sep-20,387,2-Sep-20,New PC Setup,385,2-Sep-20,4,New PC Setup,4
+264,1,4,387,2-Sep-20,387,2-Sep-20,387,2-Sep-20,5 Password Change,385,2-Sep-20,1,5 Password Change,4
+265,1,4,387,2-Sep-20,387,2-Sep-20,387,2-Sep-20,Outlook Setup,385,2-Sep-20,4,Outlook Setup and auto shutdown,4
+70,1,4,387,2-Sep-20,387,2-Sep-20,387,2-Sep-20,Zoom Plugin Setup,385,2-Sep-20,4,Zoom Plugin Setup,4
+266,2,4,391,2-Sep-20,391,2-Sep-20,391,2-Sep-20,Export item data from loyalty 1.0 CMS,385,2-Sep-20,3,Ayeyarwaddy seed item supporting in CMS,4
+267,1,4,386,2-Sep-20,386,2-Sep-20,386,2-Sep-20,Office Uninstall and Re-Install ,385,2-Sep-20,1,Office Error,4
+268,1,4,386,2-Sep-20,386,2-Sep-20,386,2-Sep-20,Outlook Profile Setup,385,2-Sep-20,1,Outlook Setup in PC ,4
+269,1,4,387,2-Sep-20,387,2-Sep-20,387,2-Sep-20,Zoom Installation,385,2-Sep-20,4,Zoom Installation,4
+270,1,4,387,2-Sep-20,387,2-Sep-20,387,2-Sep-20,Zoom Installation,385,2-Sep-20,4,Zoom Installation,4
+74,5,4,389,2-Sep-20,389,2-Sep-20,389,2-Sep-20,Update Quota,385,24-Sep-20,3,Quota update request,4
+75,1,4,386,2-Sep-20,386,2-Sep-20,386,2-Sep-20,Window Crack,385,2-Sep-20,1,Window Activate Fail,4
+271,1,4,386,2-Sep-20,386,2-Sep-20,386,2-Sep-20,Outlook profile Re-Setup and Office Crack,385,2-Sep-20,1,Outlook cannot open and Office Activate Fail,4
+251,2,4,391,2-Sep-20,391,2-Sep-20,391,2-Sep-20,KT1093A-A-WP -HE040GM/PADDY KING 40GM/ Item Code C,385,2-Sep-20,3,KTK Item Code Create,4
+272,1,4,385,3-Sep-20,385,3-Sep-20,385,3-Sep-20,Office Crack,385,3-Sep-20,1,office Activate Fail,5
+246,1,4,393,3-Sep-20,393,3-Sep-20,393,3-Sep-20,Block Domain and address from portal,385,3-Sep-20,3,blocking suspicious domain and email address,5
+273,1,4,393,3-Sep-20,393,3-Sep-20,393,3-Sep-20,Block Domain and address from portal,385,3-Sep-20,3,blocking suspicious domain and email address,5
+274,1,4,386,3-Sep-20,386,3-Sep-20,386,3-Sep-20,Teams installation and join meeting as Guest id,385,3-Sep-20,1,Teams installation and join meeting as Guest id,5
+31,1,4,386,3-Sep-20,386,3-Sep-20,386,3-Sep-20,Teams installation and join meeting as Guest id,385,3-Sep-20,1,Teams installation and join meeting as Guest id,5
+33,1,4,386,3-Sep-20,386,3-Sep-20,386,3-Sep-20,Teams installation and join meeting as Guest id,385,3-Sep-20,1,Teams installation and join meeting as Guest id,5
+275,1,4,387,3-Sep-20,387,3-Sep-20,387,3-Sep-20,Outlook Issue Fixed,385,3-Sep-20,1,outlook Issue,5
+211,2,4,390,3-Sep-20,390,3-Sep-20,390,3-Sep-20,Pawn Killer  (1Liter)/ 1 card/ Mfd : 14/08/2020,385,3-Sep-20,3,PTPZ / products manual syncs,5
+277,1,4,385,3-Sep-20,385,3-Sep-20,385,3-Sep-20,DHCP release/renew,385,3-Sep-20,2,Wifi issue,5
+218,1,4,386,3-Sep-20,386,3-Sep-20,386,3-Sep-20,"5 Setup, Office Installation in Previous PC",385,3-Sep-20,1,"5 Setup, Office Installation in Previous PC",5
+278,1,4,387,4-Sep-20,387,4-Sep-20,387,4-Sep-20,Antivirus & Teams Issue Fixed,385,4-Sep-20,1,Antivirus & Teams Issue,6
+27 Hlaing,5,4,389,4-Sep-20,389,4-Sep-20,389,4-Sep-20,5 new card request to 5,385,24-Sep-20,5,New Card Request,6
+27 Hlaing,5,4,389,4-Sep-20,389,4-Sep-20,389,4-Sep-20,Update Quota,385,24-Sep-20,3,Quota update request,6
+274,1,4,387,4-Sep-20,387,4-Sep-20,387,4-Sep-20,Teams Share Screen Issue Fixed,385,4-Sep-20,1,Teams Issue Fixed(Share),6
+280,1,4,387,4-Sep-20,387,4-Sep-20,387,4-Sep-20,Teams Guest User Fixed,385,4-Sep-20,1,Teams Error,6
+199,2,4,390,4-Sep-20,390,4-Sep-20,390,4-Sep-20,AWBA Myay Kaung 46G (1KG)/ 6 cards/ Mfd: 28/8/2020,385,4-Sep-20,3,PTPZ / products manual syncs,6
+199,2,4,391,4-Sep-20,391,4-Sep-20,391,4-Sep-20,AW1159A-A-WG-IN500GM/ BLADE 25WDG 500GM/ Item code,385,4-Sep-20,3,Awba Item Code Create,6
+218,1,4,386,4-Sep-20,386,4-Sep-20,386,4-Sep-20,Keyman Pyidaungsu Install and Fixed,385,4-Sep-20,1,Unicode Error in Previour PC,6
+199,2,4,391,5-Sep-20,391,5-Sep-20,391,5-Sep-20,AW1055A-B-EC-IN005LT/ SINACHLORIN 55EC 5LIT/  Item,385,5-Sep-20,3,Awba Item Code Create,7
+281,1,4,387,7-Sep-20,387,7-Sep-20,387,7-Sep-20,5 issue fixed,385,7-Sep-20,1,5 Error,2
+77,1,4,387,7-Sep-20,387,7-Sep-20,387,7-Sep-20,Forticlient /Outlook and Teams Setup,385,7-Sep-20,1,Forticlient / Outlook and Teams Setup ,2
+161,1,4,387,7-Sep-20,387,7-Sep-20,387,7-Sep-20,Scanner Setup,385,7-Sep-20,1,Scanner Setup,2
+282,1,4,387,7-Sep-20,387,7-Sep-20,387,7-Sep-20,5 Setup,385,7-Sep-20,1,5 Setup,2
+283,1,4,387,7-Sep-20,387,7-Sep-20,387,7-Sep-20,O365 Using Portal,385,7-Sep-20,2,O365 Using Portal,2
+243,1,4,387,7-Sep-20,387,7-Sep-20,387,7-Sep-20,Teams Setup,385,7-Sep-20,1,Teams Error,2
+258,3,4,388,7-Sep-20,388,7-Sep-20,388,7-Sep-20,Activate the Office,385,10-Sep-20,3,Microsoft Office Product Activation Fail,2
+267,1,4,386,7-Sep-20,386,7-Sep-20,386,7-Sep-20,Office Repair,385,7-Sep-20,1,Excel Cannot Open Error,2
+Kyaw Zin OO,1,4,393,7-Sep-20,393,7-Sep-20,393,7-Sep-20,E1 account creation,385,7-Sep-20,3,E1 account creation,2
+Kyaw Zin OO,1,4,393,7-Sep-20,393,7-Sep-20,393,7-Sep-20,E1 account creation,385,8,3,E1 account creation_4 accounts,2
+Moe 33 Khine,1,4,387,7-Sep-20,387,7-Sep-20,387,7-Sep-20,Teams Setup,385,7-Sep-20,1,Teams Setup,2
+69,1,4,387,7-Sep-20,387,7-Sep-20,387,7-Sep-20,Teams Setup,385,7-Sep-20,1,Teams Setup,2
+284,1,4,385,7-Sep-20,385,7-Sep-20,385,7-Sep-20,Outlook profile Re-Setup,385,7-Sep-20,8,Outlook Not Respon,2
+185,1,4,387,7-Sep-20,387,7-Sep-20,387,7-Sep-20,Outlook and Teams Setup,385,7-Sep-20,1,Outlook Setup and Teams Setup,2
+67,1,4,387,7-Sep-20,387,7-Sep-20,387,7-Sep-20,5 Setup,385,7-Sep-20,1,5 Profile Missing,2
+285,1,4,386,7-Sep-20,386,7-Sep-20,386,7-Sep-20,Outlook Setup in New PC and Fixed DateandTime,385,7-Sep-20,1,Outlook Setup in New PC and Fixed DateandTime,2
+286,5,4,389,7-Sep-20,389,7-Sep-20,389,7-Sep-20,5 new card request to 5,385,24-Sep-20,5,New Card Request,2
+286,5,4,389,7-Sep-20,389,7-Sep-20,389,7-Sep-20,Update Quota,385,24-Sep-20,3,Quota update request,2
+286,5,4,389,7-Sep-20,389,7-Sep-20,389,7-Sep-20,Collect new card from 5,385,24-Sep-20,4,Collect new card,2
+186,3,4,388,8-Sep-20,388,8-Sep-20,388,21-Sep-20,8,385,24-Sep-20,8,Request the new two logistic license,3
+287,1,4,387,8-Sep-20,387,8-Sep-20,387,8-Sep-20,Outlook Setup,385,8-Sep-20,1,Outlook Profile Missing,3
+288,6,4,389,8-Sep-20,389,8-Sep-20,385,8-Sep-20,Rollout Training,385,8-Sep-20,6,Rollout (MNA),3
+163,1,4,386,8-Sep-20,386,8-Sep-20,386,8-Sep-20,Office Crack,385,8-Sep-20,1,Excel Unlicensed ,3
+289,8,4,385,8-Sep-20,385,8-Sep-20,385,8-Sep-20,DHCP Router setting repair,385,8-Sep-20,1,yip factory Wifi error,3
+285,1,4,386,8-Sep-20,386,8-Sep-20,386,8-Sep-20,Printer Driver LBP 2900 Install,385,8-Sep-20,1,Printer Cannon LBP 2900 Installation and Setup,3
+290,1,4,385,8-Sep-20,385,8-Sep-20,385,8-Sep-20,Skip windows profile setup,385,8-Sep-20,1,Windows profile issue,3
+291,1,4,387,9-Sep-20,387,9-Sep-20,387,9-Sep-20,Network Issue Fixed,385,9-Sep-20,3,Network Issue,4
+77,1,4,386,9-Sep-20,386,9-Sep-20,386,9-Sep-20,Office 2016 Install and Setup,385,9-Sep-20,1,Window Repair and Office Crack,4
+292,6,4,389,9-Sep-20,389,9-Sep-20,389,9-Sep-20,Rollout Training,385,9-Sep-20,6,Rollout (A2B),4
+155,1,4,386,9-Sep-20,386,9-Sep-20,386,9-Sep-20,Office Re-Install,385,9-Sep-20,1,Office Error,4
+155,3,4,388,9-Sep-20,388,9-Sep-20,388,10-Sep-20,Description/ COA and Total are filled in Invoices,385,24-Sep-20,1,AP Invoice/AR Invoice can't add because of Descrip,4
+18,3,4,388,9-Sep-20,388,9-Sep-20,388,15-Sep-20,Solved by MIT by updating the query used in report,385,24-Sep-20,8,The item No for H-P-1143W-EC-IN200LT1 is missing i,4
+293,3,4,388,9-Sep-20,388,9-Sep-20,388,21-Sep-20,Request License/ Create 1/ 3 Account Set up,385,24-Sep-20,8,Request the new one financial license,4
+294,1,4,387,9-Sep-20,387,9-Sep-20,387,9-Sep-20,IDM Activation,385,9-Sep-20,1,IDM Acitvate,4
+28,2,4,386,9-Sep-20,386,9-Sep-20,386,9-Sep-20,Create BP code BW2-039 on 2 CMS,385,9-Sep-20,3,MKTK New Customer BP code create,4
+147,1,4,386,9-Sep-20,386,9-Sep-20,386,9-Sep-20,Conflict Issue Fixed,385,9-Sep-20,1,OneDrive Sync Error,4
+289,2,4,391,9-Sep-20,391,9-Sep-20,391,9-Sep-20,AW1136A-A-EC-HE250CC/ Polar 23.5EC 250CC/Item code,385,9-Sep-20,3,Awba Item Code Create,4
+295,8,4,385,9-Sep-20,385,9-Sep-20,385,9-Sep-20,.com email create,385,9-Sep-20,3,.com email request,4
+296,1,4,386,10-Sep-20,386,10-Sep-20,386,10-Sep-20,Mail Profile Re-Setup and Reset the Outlook,385,10-Sep-20,1,5 Send / Receive Error,5
+77,1,4,386,10-Sep-20,386,10-Sep-20,386,16-Sep-20,Give Action to go to Service Center,385,16-Sep-20,6,Laptop Window Shutdown Issue,5
+79,1,4,387,10-Sep-20,387,10-Sep-20,387,10-Sep-20,TeamsGuest User  Setup,385,10-Sep-20,1,Teams Guest User Setup,5
+297,1,4,387,10-Sep-20,387,10-Sep-20,387,10-Sep-20,5 Create,385,10-Sep-20,3,5 Create,5
+298,1,4,387,10-Sep-20,387,10-Sep-20,387,10-Sep-20,New PC Setup,385,10-Sep-20,4,New PC Setup,5
+299,1,4,387,10-Sep-20,387,10-Sep-20,387,10-Sep-20,New PC Setup,385,10-Sep-20,4,New PC Setup,5
+300,1,4,386,10-Sep-20,386,10-Sep-20,386,10-Sep-20,Office Repair and Office License Crack,385,10-Sep-20,1,Excel Cannot Open and Cannot Write Error,5
+11,1,4,386,10-Sep-20,386,10-Sep-20,386,10-Sep-20,Office Install and Mail Setup in New PC,385,10-Sep-20,1,Office Install and Mail Setup in New PC,5
+159,1,4,386,10-Sep-20,386,10-Sep-20,386,10-Sep-20,Office Update,385,10-Sep-20,1,Outlook Mail Issue,5
+301,1,4,385,10-Sep-20,385,10-Sep-20,385,10-Sep-20,Win RAR install,385,10-Sep-20,1,Win RAR install,5
+302,8,4,385,10-Sep-20,385,10-Sep-20,385,10-Sep-20,.email create,385,10-Sep-20,3,.email request,5
+270,1,4,387,10-Sep-20,387,10-Sep-20,387,10-Sep-20,Office Crack,385,10-Sep-20,1,Office Acitivation failed,5
+69,1,4,387,10-Sep-20,387,10-Sep-20,387,10-Sep-20,Outlook Excel Error Fixed,385,10-Sep-20,1,Outlook Excel Issue,5
+74,1,4,387,10-Sep-20,387,10-Sep-20,387,10-Sep-20,Teams Training,385,10-Sep-20,1,Teams Training,5
+157,1,4,387,10-Sep-20,387,10-Sep-20,387,10-Sep-20,Teams Training,385,10-Sep-20,1,Teams Training,5
+303,1,4,385,10-Sep-20,385,10-Sep-20,385,10-Sep-20,Outlook profile re-setup,385,10-Sep-20,1,Outlook issue,5
+304,1,4,387,10-Sep-20,387,10-Sep-20,387,10-Sep-20,Outlook and Teams Setup,385,10-Sep-20,1,Outlook and Teams Setup,5
+305,1,4,387,10-Sep-20,387,10-Sep-20,387,10-Sep-20,Outlook and Teams Setup,385,10-Sep-20,1,Outlook and Teams Setup,5
+306,1,4,386,10-Sep-20,386,10-Sep-20,386,10-Sep-20,Mail Setup and Teams Installation and Setup,385,10-Sep-20,1,Mail Setup and Teams Installation and Setup,5
+225,1,4,386,10-Sep-20,386,10-Sep-20,386,10-Sep-20,Mail Setup and Teams Installation and Setup,385,10-Sep-20,1,Mail Setup and Teams Installation and Setup,5
+307,1,4,386,10-Sep-20,386,10-Sep-20,386,10-Sep-20,Mail Setup and Teams Installation and Setup,385,10-Sep-20,1,Mail Setup and Teams Installation and Setup,5
+308,8,4,385,10-Sep-20,385,10-Sep-20,385,10-Sep-20,Manager's phone and Manager's recomanded phone all,385,10-Sep-20,3,Manager's phone and Manager's recomanded phone all,5
+309,1,4,386,11-Sep-20,386,11-Sep-20,386,11-Sep-20,Change to Online Work and mail setting fix,385,11-Sep-20,1,5 Offline Work Error,6
+77,1,4,386,11-Sep-20,386,11-Sep-20,386,11-Sep-20,Mail profile setup ,385,11-Sep-20,1,Set 5 Account to Ma Nyein's old laptop,6
+82,3,4,386,11-Sep-20,386,11-Sep-20,386,11-Sep-20,Sign Out from 1 and Re-Sign In,385,11-Sep-20,1,Cannot copy invoice data in 1 desktop,6
+310,1,4,386,11-Sep-20,386,11-Sep-20,386,11-Sep-20,Outlook Profile Re-Setup,385,11-Sep-20,1,Outlook Cannot Open,6
+225,1,4,386,11-Sep-20,386,11-Sep-20,386,11-Sep-20,Outlook Profile Re-Setup,385,11-Sep-20,1,Outlook Cannot Open,6
+255,1,4,387,11-Sep-20,387,11-Sep-20,387,11-Sep-20,Teams Re-Login,385,11-Sep-20,1,Teams Error,6
+298,1,4,387,11-Sep-20,387,11-Sep-20,387,11-Sep-20,Data Trasfer Old PC To New PC,385,11-Sep-20,4,Data Trasfer Old PC To New PC,6
+299,1,4,387,11-Sep-20,387,11-Sep-20,387,11-Sep-20,Data Trasfer Old PC To New PC,385,11-Sep-20,4,Data Trasfer Old PC To New PC,6
+311,1,4,387,11-Sep-20,387,11-Sep-20,387,11-Sep-20,PC Change & Warranyt,385,11-Sep-20,4,PC Change & Warranty,6
+312,1,4,387,11-Sep-20,387,11-Sep-20,387,11-Sep-20,Quotation Request Follow Finished,385,11-Sep-20,5,Quotation Request,6
+313,1,4,387,11-Sep-20,387,11-Sep-20,387,11-Sep-20,Authenticator Issue Fixed,385,11-Sep-20,1,Authenticator,6
+155,1,4,386,11-Sep-20,386,11-Sep-20,386,11-Sep-20,Excel Reset and fix,385,11-Sep-20,1,Excel cannot copy,6
+Moe 33 Khine,1,4,387,11-Sep-20,387,11-Sep-20,387,11-Sep-20,Teams Camera Issue Fixed,385,11-Sep-20,1,Teams Camera,6
+245,1,4,387,11-Sep-20,387,11-Sep-20,387,11-Sep-20,Office Update,385,11-Sep-20,1,5 Issue,6
+191,1,4,386,11-Sep-20,386,11-Sep-20,386,11-Sep-20,5 Setting Fix,385,11-Sep-20,1,5 Receive Error,6
+8,2,4,386,11-Sep-20,386,11-Sep-20,386,11-Sep-20,Create BP code BE2-049on 2 CMS,385,11-Sep-20,3,MKTK New Customer BP code create,6
+314,1,4,387,11-Sep-20,387,11-Sep-20,387,11-Sep-20,Pannel Change,385,11-Sep-20,4,Pannel Damage,6
+315,1,4,387,11-Sep-20,387,11-Sep-20,387,11-Sep-20,Warranty support,385,11-Sep-20,4,Warranty support,6
+316,1,4,386,11-Sep-20,386,11-Sep-20,386,11-Sep-20,Mail Profile Re-Setup and Office Crack,385,11-Sep-20,1,Mail Receive Error,6
+77,1,4,386,12-Sep-20,386,12-Sep-20,386,12-Sep-20,Scan Virus/ and Explain the cause of Del Keybord E,385,12-Sep-20,1,File and apps are crack in Ma Nyein's old laptop,7
+317,1,4,385,12-Sep-20,385,12-Sep-20,385,12-Sep-20,email password & id manual supporting,385,12-Sep-20,1,email password & id manual supporting,7
+318,1,4,385,12-Sep-20,385,12-Sep-20,385,12-Sep-20,outlook profile setup and office activate,385,12-Sep-20,1,outlook profile setup and office activate,7
+319,1,4,386,12-Sep-20,386,12-Sep-20,386,12-Sep-20,Pdf to Word Converter Install and Setup,385,12-Sep-20,1,Pdf to Word Converter Install,7
+61,1,4,386,12-Sep-20,386,12-Sep-20,386,12-Sep-20, Give direction how to fix with Scr Lk,385,12-Sep-20,2,Keyboard Key Conflict Issue,7
+320,1,4,385,12-Sep-20,385,12-Sep-20,385,12-Sep-20,teams software installation and setup,385,12-Sep-20,1,teams software installation and setup,7
+203,1,4,386,12-Sep-20,386,12-Sep-20,386,12-Sep-20,Remove Zawgyi Unicode Keyboard,385,12-Sep-20,1,Unicode Keyboard Issue,7
+92,1,4,386,12-Sep-20,386,12-Sep-20,386,12-Sep-20,Upload Send Mail folder and explain how to upload ,385,12-Sep-20,1,5 Send Uploading Issue,7
+77,1,4,386,14-Sep-20,386,14-Sep-20,386,14-Sep-20,Office Crack,385,14-Sep-20,1,Office Activate Fail in Ma Moh's Old PC,2
+321,1,4,386,14-Sep-20,386,14-Sep-20,386,14-Sep-20,email password & id manual supporting,385,14-Sep-20,6,email password & id manual supporting,2
+161,1,4,387,14-Sep-20,387,14-Sep-20,387,14-Sep-20,Office Activated Crack,385,14-Sep-20,1,Office Activate Failed,2
+322,1,4,387,14-Sep-20,387,14-Sep-20,387,14-Sep-20,AM Computer 3-PC  Transfer,385,14-Sep-20,4,AM Computer 3-PC  Transfer,2
+323,1,4,387,14-Sep-20,387,14-Sep-20,387,14-Sep-20,Window Reset,385,14-Sep-20,1,Window Can't Boot,2
+324,1,4,386,14-Sep-20,386,14-Sep-20,386,14-Sep-20,Clean Browse History and Maintenance,385,14-Sep-20,1,Laptop Monitor Issue,2
+167,1,4,386,14-Sep-20,386,14-Sep-20,386,14-Sep-20,Key Conflict Issue and Mail Data Adding,385,14-Sep-20,1,Key Conflict Issue and Mail Data Adding,2
+325,1,4,387,14-Sep-20,387,14-Sep-20,387,14-Sep-20,Tems Guest Account & Outlook Error Fixed,385,14-Sep-20,1,Teams Guest Account & Outlook Error Fixed,2
+86 Htun,1,4,386,14-Sep-20,386,14-Sep-20,386,14-Sep-20,Offie 2019 Repair and Fix,385,14-Sep-20,1,Outlook Safe Mode Conflict Error,2
+155,1,4,386,14-Sep-20,386,14-Sep-20,386,14-Sep-20,Office 2016 Crack,385,14-Sep-20,1,Excel / Word Cannot Edit in Desktop,2
+Kyaw Zin OO,1,4,393,14-Sep-20,393,14-Sep-20,393,14-Sep-20,Account Reid from 3,385,14-Sep-20,3,O365 Account Reid,2
+Kyaw Zin OO,1,4,393,14-Sep-20,393,14-Sep-20,393,14-Sep-20,Account Reid from 3,385,14-Sep-20,3,O365 Account Reid,2
+66,1,4,386,14-Sep-20,386,14-Sep-20,386,14-Sep-20,Office 2016 Re-Install,385,14-Sep-20,1,Office Error,2
+8,2,4,386,14-Sep-20,386,14-Sep-20,386,14-Sep-20,Create BP code BE-096 on 2 CMS,385,14-Sep-20,3,MKTK New Customer BP code create,2
+84,2,4,391,14-Sep-20,391,14-Sep-20,391,14-Sep-20,Pawn Killer 4LT/ 787 cards/ Mfd:12.9.2020,385,14-Sep-20,3,Awba product manual syncs,2
+84,2,4,391,14-Sep-20,391,14-Sep-20,391,14-Sep-20,Hacker 10 sl 500CC/ 17 cards/ Mfd:12.9.2020,385,14-Sep-20,3,Awba product manual syncs,2
+203,1,4,386,14-Sep-20,386,14-Sep-20,386,14-Sep-20,Office Crack,385,14-Sep-20,1,Office Activate Fail in Old Laptop,2
+67 Khine,1,4,387,15-Sep-20,387,15-Sep-20,387,15-Sep-20,Office Crack,385,15-Sep-20,1,Office Activate Failed,3
+327,1,4,387,15-Sep-20,387,15-Sep-20,387,15-Sep-20,Computer Purchase,385,15-Sep-20,4,Computer Purchase,3
+328,1,4,387,15-Sep-20,387,15-Sep-20,387,15-Sep-20,PC Change 5 Setup,385,15-Sep-20,1,PC Change 5 Setup,3
+318,1,4,387,15-Sep-20,387,15-Sep-20,387,15-Sep-20,Window Update Disable,385,15-Sep-20,1,Window Update,3
+161,1,4,387,15-Sep-20,387,15-Sep-20,387,15-Sep-20,One Drive Sync ,385,15-Sep-20,1,One Drive Error,3
+62,1,4,385,15-Sep-20,385,15-Sep-20,385,15-Sep-20,password support and restart the computer,385,15-Sep-20,2,Outlook password require,3
+329,1,4,387,15-Sep-20,387,15-Sep-20,387,15-Sep-20,Office 365 Setup,385,15-Sep-20,1,Office 365 Setup,3
+330,8,4,392,15-Sep-20,392,15-Sep-20,392,15-Sep-20,Create from admin portal,385,15-Sep-20,3,Office 365 5 Create,3
+331,1,4,385,15-Sep-20,385,15-Sep-20,385,15-Sep-20,restart the computer,385,15-Sep-20,2,Office issue,3
+332,1,4,386,15-Sep-20,386,15-Sep-20,386,15-Sep-20,Mail Setting Check / 5 Reset and Test ,385,15-Sep-20,1,5 Send Error,3
+Moe 33 Khine,1,4,387,15-Sep-20,387,15-Sep-20,387,15-Sep-20,Outlook and Teams Setup,385,15-Sep-20,1,Office Mail Setup and Teams Setup,3
+74,1,4,387,15-Sep-20,387,15-Sep-20,387,15-Sep-20,Scanner Setup,385,15-Sep-20,1,Scanner Setup,3
+87,1,4,385,15-Sep-20,385,15-Sep-20,385,15-Sep-20,disable add in,385,15-Sep-20,1,Outlook issue,3
+93,1,4,386,15-Sep-20,386,15-Sep-20,386,15-Sep-20,Mail Setup in New PC,385,15-Sep-20,1,Mail Setup in New PC,3
+77,1,4,386,16-Sep-20,386,16-Sep-20,386,16-Sep-20,Office 2016 Install/ Forticlient Install and Setup,385,16-Sep-20,1,Office 2016 Install/ Forticlient Install and Setup,4
+114,1,4,386,16-Sep-20,386,16-Sep-20,386,16-Sep-20,Clean Temp files in Regstiry file,385,16-Sep-20,1,Excel attached file cannot open,4
+333,1,4,387,16-Sep-20,387,16-Sep-20,387,16-Sep-20,New PC Setup,385,16-Sep-20,4,New PC Setup,4
+79,1,4,387,16-Sep-20,387,16-Sep-20,387,16-Sep-20,Window Auto Update Disable,385,16-Sep-20,1,Window Auto Update Disable,4
+334,1,4,387,16-Sep-20,387,16-Sep-20,387,16-Sep-20,Teams Guest Account Setup,385,16-Sep-20,1,Team Guest Account Setup,4
+112,1,4,386,16-Sep-20,386,16-Sep-20,386,16-Sep-20,Clean Temp files in Regstiry file,385,16-Sep-20,1,Excel attached file cannot open,4
+70,1,4,387,16-Sep-20,387,16-Sep-20,387,16-Sep-20,Outlook Offline Fixed,385,16-Sep-20,1,Outlook Offline,4
+155,1,4,386,16-Sep-20,386,16-Sep-20,386,16-Sep-20,Office Crack,385,16-Sep-20,1,Word 2016 needed to Activate,4
+66,1,4,386,16-Sep-20,386,16-Sep-20,386,16-Sep-20,Viso 2016 Installation,385,16-Sep-20,1,Viso 2016 Installation,4
+335,3,4,388,16-Sep-20,388,16-Sep-20,388,16-Sep-20,Create the required 3 accounts in requested comp,385,24-Sep-20,3,To grant access Groupfn and AGACAONE to AWBA/ MAI/,4
+336,1,4,387,16-Sep-20,387,16-Sep-20,387,16-Sep-20,New PC Setup,385,16-Sep-20,4,New PC Setup,4
+84,2,4,391,16-Sep-20,391,16-Sep-20,391,16-Sep-20,PAWN KILLER 4LT/ 590 Cards/ Mfd: 15-SEP-2020,385,16-Sep-20,3,Awba product manual syncs,4
+337,1,4,386,16-Sep-20,386,16-Sep-20,386,16-Sep-20,Mai Profile Re-Setup,385,16-Sep-20,1,Outlook cannot use,4
+77,1,4,387,17-Sep-20,387,17-Sep-20,387,17-Sep-20,Virus Cleaning,385,17-Sep-20,1,Virus,5
+121,1,4,386,17-Sep-20,386,17-Sep-20,386,17-Sep-20,Login with browser and Give guideline,385,17-Sep-20,1,Teams Error Urgent,5
+338,6,4,389,17-Sep-20,389,17-Sep-20,389,17-Sep-20,Rollout Training,385,17-Sep-20,6,Rollout (SNA),5
+322,6,4,389,17-Sep-20,389,17-Sep-20,385,17-Sep-20,Rollout Training,385,17-Sep-20,6,Rollout (YGB),5
+6,1,4,386,17-Sep-20,386,17-Sep-20,386,17-Sep-20,Clean Temp files in Regstiry file,385,17-Sep-20,1,Excel attached file cannot open,5
+339,1,4,387,17-Sep-20,387,17-Sep-20,387,17-Sep-20,UPS Purchase,385,17-Sep-20,2,UPS Purchase,5
+199,2,4,391,17-Sep-20,391,17-Sep-20,391,17-Sep-20,AW1153A-A-EC-HE001LT/ FORTUNE 10EC 1LT/ Item Code ,385,17-Sep-20,3,Awba Item Code Create,5
+84,2,4,391,17-Sep-20,391,17-Sep-20,391,17-Sep-20,Pawn Killer 1LT/ 34 Cards/ Mfd: 17.9.2020,385,17-Sep-20,3,Awba product manual sync,5
+67 Khaing,1,4,386,17-Sep-20,386,17-Sep-20,386,17-Sep-20,Office Repair,385,17-Sep-20,1,Outlook application Error,5
+92,1,4,386,17-Sep-20,386,17-Sep-20,386,17-Sep-20,Printer LBP 6030 Install and Setup,385,17-Sep-20,1,Printer Offline Error,5
+177,1,4,wnwh,18-Sep-20,wnwh,18-Sep-20,387,18-Sep-20,Wifi Driver Fixed,385,18-Sep-20,2,Wifi Issue,6
+77,3,4,388,18-Sep-20,388,18-Sep-20,388,18-Sep-20,Update the correct port number,385,10/2/2020,8,VPN can't connect because of wrong port,6
+121,1,4,386,18-Sep-20,386,18-Sep-20,386,18-Sep-20,Virus Check with SMADAV and Fix,385,18-Sep-20,1,Virus Check and Fix,6
+341,1,4,wnwh,18-Sep-20,wnwh,18-Sep-20,387,18-Sep-20,Pyihtaunghsu Font Training,385,18-Sep-20,1,Pyihtaunghsu Font Training,6
+334,1,4,wnwh,18-Sep-20,wnwh,18-Sep-20,387,18-Sep-20,Teams Guest User Login,385,18-Sep-20,1,Teams Issue,6
+147 Aung,1,4,wnwh,18-Sep-20,wnwh,18-Sep-20,387,18-Sep-20,Myanmar Font Fix,385,18-Sep-20,1,Myanmar Font error,6
+15,1,4,386,18-Sep-20,386,18-Sep-20,386,18-Sep-20,Window Crack and Mail Profile Re-setup,385,18-Sep-20,1,Window Activate Fail and Outlook Cannot Open,6
+192,1,4,386,18-Sep-20,386,18-Sep-20,386,18-Sep-20,Unicode Uninstall and Install,385,18-Sep-20,1,Unicode Error,6
+113,1,4,386,18-Sep-20,386,18-Sep-20,386,18-Sep-20,Clean Temp files in Regstiry file,385,18-Sep-20,1,Excel attached file cannot open,6
+88,1,4,wnwh,18-Sep-20,wnwh,18-Sep-20,387,18-Sep-20,Wifi Driver Fixed,385,18-Sep-20,2,Wifi Issue,6
+343,3,4,388,18-Sep-20,388,18-Sep-20,388,18-Sep-20,Reset the Advanced of Internet Options ,385,2-Oct-20,1,VPN can't connect because of mismatch TLS version,6
+48,2,4,386,18-Sep-20,386,18-Sep-20,386,18-Sep-20,Create BP code MYG-045 on 2 CMS,385,18-Sep-20,3,MSCN New Customer BP code create,6
+85,2,4,391,18-Sep-20,391,18-Sep-20,391,18-Sep-20,PICA 1Liter / 156 cards/ Mfd: 17-Sep-2020,385,18-Sep-20,3,WSR product manual sync,6
+84,2,4,391,18-Sep-20,391,18-Sep-20,391,18-Sep-20,PRIMET 27.6SL 1Liter/ 68 cards/ Mfd: 16-Sep-2020,385,18-Sep-20,3,Awba product manual sync,6
+67 Khaing,3,4,388,18-Sep-20,388,18-Sep-20,388,18-Sep-20,Reconnect VPN by deleting space,385,2-Oct-20,1,VPN can't connect because of idid and password,6
+344,3,4,388,21-Sep-20,388,21-Sep-20,388,21-Sep-20,Validate FortiClient Credentials/ Change to new Re,385,10/2/2020,1,To set up required accounts for new license,2
+Ma 67 Khaing,3,4,388,21-Sep-20,388,21-Sep-20,388,21-Sep-20,Validate FortiClient Credentials/ Change to new Re,385,10/2/2020,1,To set up required accounts for new license,2
+346,3,4,388,21-Sep-20,388,21-Sep-20,388,21-Sep-20,Check Speedtest and request to change another Inte,385,10/2/2020,1,3 exit frequently due to weak connection,2
+347,3,4,388,21-Sep-20,388,21-Sep-20,388,21-Sep-20,Can't even check Speedtest and so request to chang,385,10/2/2020,1,3 exit frequently due to weak connection,2
+191,1,4,387,21-Sep-20,387,21-Sep-20,387,21-Sep-20,Teams Guest Issue,385,21-Sep-20,1,Teams Guest Issue,2
+159 Tun,1,4,387,21-Sep-20,387,21-Sep-20,387,21-Sep-20,Myanmar Fonts,385,21-Sep-20,1,Myanmar Fonts,2
+30,1,4,387,21-Sep-20,387,21-Sep-20,387,21-Sep-20,Teams Guest Issue,385,21-Sep-20,1,Teams Guest Issue,2
+113,3,4,386,21-Sep-20,386,21-Sep-20,386,21-Sep-20,Sign Out from 1 and Re-Sign In to 1,385,21-Sep-20,1,Data file cannot copy form remote to desktop,2
+323,1,4,386,21-Sep-20,386,21-Sep-20,386,21-Sep-20,Adobe Acrobat XI Pro Download and Setup,385,21-Sep-20,1,Adobe Acrobat XI Pro Setup,2
+323,1,4,386,21-Sep-20,386,21-Sep-20,386,21-Sep-20,.email data file add in account setting,385,21-Sep-20,1,.email data file add in Outlook,2
+350,3,4,388,21-Sep-20,388,21-Sep-20,388,22-Sep-20,Creat New Account in UAT_AWBA with Userid - PSCA,385,10/2/2020,3,Preparation for PS and ASIC Testing,2
+351,1,4,387,21-Sep-20,387,21-Sep-20,387,21-Sep-20,Teams Guest Account Create,385,21-Sep-20,1,Teams Guest Account Create,2
+352,1,4,387,21-Sep-20,387,21-Sep-20,387,21-Sep-20,Teams Guest Account Create,385,21-Sep-20,1,Teams Guest Account Create,2
+353,3,4,388,21-Sep-20,388,21-Sep-20,388,21-Sep-20,Update Form setting for customization,385,10/2/2020,1,To set up required accounts for new license,2
+257,3,4,388,21-Sep-20,388,21-Sep-20,388,22-Sep-20,Copy Authorization from KARTHREE to KARONE,385,10/2/2020,3,RC record is not appeared in KARONE BP Internal Re,2
+354,1,4,386,21-Sep-20,386,21-Sep-20,386,21-Sep-20,MS Teams Install and Setup,385,21-Sep-20,1,MS Teams Install and Setup,2
+87,1,4,387,21-Sep-20,387,21-Sep-20,387,21-Sep-20,Printer Maintainence ,385,21-Sep-20,1,Printer Error,2
+355,2,4,391,21-Sep-20,391,21-Sep-20,391,21-Sep-20,AW1097A-A-SC-IN001LT/ Torpedo 50SC 1LT/ Item Code ,385,21-Sep-20,3,Awba Item Code Create,2
+228,1,4,386,21-Sep-20,386,21-Sep-20,386,21-Sep-20,Office Full Repair,385,21-Sep-20,1,Excel cannot open ,2
+356,1,4,387,22-Sep-20,387,22-Sep-20,387,22-Sep-20,Outlook Attached file fixed,385,22-Sep-20,1,Outlook Attched file erro,3
+186,3,4,388,22-Sep-20,388,22-Sep-20,388,22-Sep-20,Create new id WICTHREE with existing logistics l,385,10/2/2020,8,Request new logistics id,3
+186,3,4,388,22-Sep-20,388,22-Sep-20,388,22-Sep-20,Create new approval templates by removing WCAONE f,385,10/2/2020,3,Request to remove WCAONE as authorizer from Activa,3
+357,1,4,386,22-Sep-20,386,22-Sep-20,386,22-Sep-20,Office Quick Repair,385,22-Sep-20,1,Excel cannot open,3
+358,1,4,387,22-Sep-20,387,22-Sep-20,387,22-Sep-20,Outlook Account Change,385,22-Sep-20,1,Outlook Account Change,3
+87,1,4,386,22-Sep-20,386,22-Sep-20,386,22-Sep-20,Scanner Driver install,385,22-Sep-20,1,Scanner Issue,3
+360,1,4,386,22-Sep-20,386,22-Sep-20,386,22-Sep-20,Office Crack,385,22-Sep-20,1,Office Activate Fail,3
+48,1,4,386,23-Sep-20,386,23-Sep-20,386,23-Sep-20,Teams Re-Install and Setup,385,27-Sep-20,1,Teams cannot login Issue,4
+361,1,4,386,23-Sep-20,386,23-Sep-20,386,23-Sep-20,Teams Install/ Zoom Install/ 5 setup/ Virus Sc,385,23-Sep-20,1,Teams Install/ Zoom Install/ 5 setup/ Virus Sc,4
+362,3,4,388,23-Sep-20,388,23-Sep-20,388,23-Sep-20,Choose Date as Posting Date instead of System Date,385,10/2/2020,1,Inventory Audit Report data is not correct as WCAO,4
+362,3,4,388,23-Sep-20,388,23-Sep-20,388,23-Sep-20,Grant access as Full Authorization,385,10/2/2020,3,Can't access WSR_StockAgingReport,4
+333,1,4,387,23-Sep-20,387,23-Sep-20,387,23-Sep-20,Outlook Setup,385,23-Sep-20,1,Outlook Setup,4
+101,1,4,387,23-Sep-20,387,23-Sep-20,387,23-Sep-20,One Drive Sync Fixed,385,23-Sep-20,1,One Driver Sync Error,4
+363,1,4,385,23-Sep-20,385,23-Sep-20,385,23-Sep-20,checkiing admin portal,385,23-Sep-20,3,email cannot send,4
+101,1,4,387,23-Sep-20,387,23-Sep-20,387,23-Sep-20,5 Issue Fixed,385,24-Sep-20,7,5 Issue,4
+302,1,4,385,23-Sep-20,385,23-Sep-20,385,23-Sep-20,email account create,385,23-Sep-20,3,email account request,4
+353,3,4,388,23-Sep-20,388,23-Sep-20,388,23-Sep-20,Add KCRMTWO in Sales Group from Users as KCRMONE,385,10/2/2020,3,Can't access Close Document from KCRMTWO as KCRMON,4
+364,1,4,387,23-Sep-20,387,23-Sep-20,387,23-Sep-20,Office Crack/MM Fonts/Excel Issue Fixed,385,23-Sep-20,1,Office Crack/MM Fonts/Excel Error,4
+84,2,4,391,23-Sep-20,391,23-Sep-20,391,23-Sep-20,Ready 1Liter/ 605 Cards/ Mfd: 23-Sep-2020,385,23-Sep-20,3,WSR product manual sync,4
+365,1,4,385,23-Sep-20,385,23-Sep-20,385,23-Sep-20,Windows update,385,23-Sep-20,1,Teams myanmar font issue,4
+211,2,4,391,23-Sep-20,391,23-Sep-20,391,23-Sep-20,Ready 1Liter/ 605 Cards/ Mfd: 23-Sep-2020,385,23-Sep-20,3,WSR product manual sync,4
+104,User support,4,387,24-Sep-20,387,24-Sep-20,387,24-Sep-20,Window activate,385,24-Sep-20,1,Window activation fail,5
+287,User support,4,387,24-Sep-20,387,24-Sep-20,387,24-Sep-20,Outlook Setup,385,24-Sep-20,1,Outlook Issue,5
+366,1,4,386,24-Sep-20,386,24-Sep-20,386,24-Sep-20,Excel file  file extension change,385,24-Sep-20,1,Excel file  file extension is not valid,5
+70,1,4,386,24-Sep-20,386,24-Sep-20,386,24-Sep-20,Remove Outlook Profile/ SignOut from Excel and Unl,385,9/24/2020,1,Remove Outlook Profile/ SignOut from Excel and Unl,5
+100,1,4,387,24-Sep-20,387,24-Sep-20,387,24-Sep-20,Excel Issue Fixed,385,9/24/2020,1,Excel Issue,5
+70,1,4,386,24-Sep-20,386,24-Sep-20,386,24-Sep-20,Office Install/ Zoom Install/ Mail Setup and Zoom ,385,9/24/2020,1,Office Install/ Zoom Install/ Mail Setup and  OneD,5
+367,1,4,387,24-Sep-20,387,24-Sep-20,387,24-Sep-20,Excel issue fixed and Photoshop Install,385,24-Sep-20,1,Excel and Photoshop Issue,5
+353,1,4,387,24-Sep-20,387,24-Sep-20,387,24-Sep-20,5 Password,385,24-Sep-20,2,5 Password Forgot,5
+257,User support,4,387,24-Sep-20,387,24-Sep-20,387,24-Sep-20,E-Signature Setup,385,24-Sep-20,1,E-Singnature,5
+368,1,4,386,25-Sep-20,386,25-Sep-20,386,25-Sep-20,Office Crack,385,25-Sep-20,1,Product License Activate Fail,6
+369,2 2.0,4,390,25-Sep-20,390,25-Sep-20,390,25-Sep-20,For One 1Lit/ Alarm 100CC (20childs+2parents)codes,385,25-Sep-20,5,Demo DM code sharing,6
+31,1,4,386,25-Sep-20,386,25-Sep-20,386,25-Sep-20,Teams Login and Fix,385,25-Sep-20,1,Teams Issue,6
+370,1,4,387,25-Sep-20,387,25-Sep-20,387,25-Sep-20,E-Signature and 7,385,25-Sep-20,1,E-Signature and 7,6
+306,1,4,386,25-Sep-20,386,25-Sep-20,386,25-Sep-20,Mail Profile Re-Setup,385,25-Sep-20,1,Outlook Profile Fail,6
+266,2,4,391,26-Sep-20,391,26-Sep-20,391,26-Sep-20,AS1325C-A-OT-SD020KG/ Chickpea Yezin 11 20KG/ Item,385,26-Sep-20,3,PS Item Code Create,7
+266,2,4,391,26-Sep-20,391,26-Sep-20,391,26-Sep-20,AS1325D-A-OT-SD020KG/ Chickpea Yezin 12 20KG/ Item,385,26-Sep-20,3,PS Item Code Create,7
+48,2,4,391,26-Sep-20,391,26-Sep-20,391,26-Sep-20,402970/Hgnet Kyi Taung 18sc/5 cards/24.09.2020/Del,385,26-Sep-20,3,Awba product/Delivery wrong scan,7
+68,1,4,386,26-Sep-20,386,26-Sep-20,386,26-Sep-20,Office Online Repair,385,26-Sep-20,1,Excel Cannot Open,7
+306,1,4,386,26-Sep-20,386,26-Sep-20,386,26-Sep-20,Outlook change to Online Work and Re-upload,385,26-Sep-20,1,Outlook Mail Error,7
+186,1,4,387,27-Sep-20,387,27-Sep-20,387,27-Sep-20,Outlook setup,385,27-Sep-20,1,Outlook error,1
+308,1,4,385,27-Sep-20,385,27-Sep-20,385,27-Sep-20,Outlook Profile Setup,385,27-Sep-20,1,Outlook Profile error,1
+210,1,4,386,28-Sep-20,386,28-Sep-20,386,28-Sep-20,Unicode Keyboard Change,385,28-Sep-20,1,Unicode Issue,2
+371,1,4,387,28-Sep-20,387,28-Sep-20,387,28-Sep-20,Window Activated,385,28-Sep-20,1,Window Activate Failed,2
+30,1,4,387,28-Sep-20,387,28-Sep-20,387,28-Sep-20,Office Crack,385,28-Sep-20,1,Office Activate Failed,2
+372,1,4,387,28-Sep-20,387,28-Sep-20,387,28-Sep-20,Office & Window Crack,385,28-Sep-20,1,Office & Window Activation Failed,2
+373,1,4,386,28-Sep-20,386,28-Sep-20,386,28-Sep-20,Add Unicode Font and Keyboard,385,28-Sep-20,1,Unicode Issue,2
+374,1,4,387,28-Sep-20,387,28-Sep-20,387,28-Sep-20,Window Crack,385,28-Sep-20,1,Window Activate Failed,2
+61,1,4,387,28-Sep-20,387,28-Sep-20,387,28-Sep-20,Myanmar Font Fixed,385,28-Sep-20,1,Myanmar Fonts Error,2
+375,1,4,387,28-Sep-20,387,28-Sep-20,387,28-Sep-20,5 setup and Myanmar Fonts Setup,385,28-Sep-20,1,5 setup and Myanmar Font,2
+353,1,4,387,28-Sep-20,387,28-Sep-20,387,28-Sep-20,Keyboard Fixed,385,28-Sep-20,2,Keyboard Error,2
+87,5,4,389,28-Sep-20,389,28-Sep-20,389,28-Sep-20,Request 5 for new card,385,2-Oct-20,5,New Card Request,2
+92,1,4,386,28-Sep-20,386,28-Sep-20,386,28-Sep-20,Support Wifi Error Solve Methods,385,28-Sep-20,6,Wifi Error,2
+225,1,4,386,28-Sep-20,386,28-Sep-20,386,28-Sep-20,.email data add and Office Crack,385,28-Sep-20,1,.email data add and product activate fail,2
+376,1,4,386,28-Sep-20,386,28-Sep-20,386,28-Sep-20,Office Crack,385,28-Sep-20,1,Outlook and Excel Cannot Use,2
+377,1,4,387,29-Sep-20,387,29-Sep-20,387,29-Sep-20,Office and Window Activate Crack,385,29-Sep-20,1,Office and window Activate Failed,3
+378,1,4,387,29-Sep-20,387,29-Sep-20,387,29-Sep-20,Scanner Setup,385,29-Sep-20,1,Scanner Setup,3
+379,1,4,387,29-Sep-20,387,29-Sep-20,387,29-Sep-20,Microsoft Word Issue Fixed,385,29-Sep-20,1,Word Error,3
+228,1,4,386,29-Sep-20,386,29-Sep-20,386,29-Sep-20,.com mail setup in PC and Teams InstallandSetup,385,29-Sep-20,1,.com mail setup in PC and Teams InstallandSetup,3
+380,1,4,387,30-Sep-20,387,30-Sep-20,387,30-Sep-20,Viber Setup,385,30-Sep-20,1,Viber Setup,4
+45,1,4,387,30-Sep-20,387,30-Sep-20,387,30-Sep-20,5 Issue Fixed,385,30-Sep-20,1,5 Issue ,4
+381,1,4,386,30-Sep-20,386,30-Sep-20,386,30-Sep-20,Office Crack and Fixed,385,30-Sep-20,1,Excel cannot use,4
+382,1,4,386,30-Sep-20,386,30-Sep-20,386,30-Sep-20,Office Full Repair,385,30-Sep-20,1,Excel cannot open,4
+257,1,4,387,30-Sep-20,387,30-Sep-20,387,30-Sep-20,EY Client Portal,385,30-Sep-20,1,EY Client Portal,4
+383,1,4,387,30-Sep-20,387,30-Sep-20,387,30-Sep-20,Laptop Hang error FIxed,385,30-Sep-20,1,Laptop Hang,4
+225,1,4,386,30-Sep-20,386,30-Sep-20,386,30-Sep-20,Share User Manual and Guide,385,30-Sep-20,6,Outlook Error ,4
