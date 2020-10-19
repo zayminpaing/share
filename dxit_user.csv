@@ -1,0 +1,12 @@
+user,email,password,company_id,department_id,role_id,position,is_dxit_manager,is_verified
+Aung Ko Min,aungkomin@awba-group.com,dxit,7,19,0,Assistant IT Manager,1,0
+Kyi Sein Lin,kyiseinlin@awba-group.com,dxit,7,19,0,IT Manager,1,0
+Wunna Naing Win Htain,wunnanaingwinhtain@awba-group.com,dxit,7,19,0,IT Support Specialist,0,0
+Nandar Hlaing,nandarhlaing@awba-group.com,dxit,7,19,0,IT Support Specialist,0,0
+Wint Thiri Aung,winthiriaung@awba-group.com,dxit,7,19,0,Project Manager,1,0
+Thin Moh Moh Hlaing,thinmohmohhlaing@awba-group.com,dxit,7,19,0,Assistant Project Manager,1,0
+Hsu Linn Htet,hsulinnhtet@awba-group.com,dxit,7,19,0,Assistant QA Manager,1,0
+Myat Mon Cho,myatmoncho@awba-group.com,dxit,7,19,0,SAP Specialist,0,0
+Kaung Hset Naing,kaunghsetnaing@awba-group.com,dxit,7,19,0,Data Analyst,0,0
+Aung Chit Moe,aungchitmoe@awba-group.com,dxit,7,19,0,Project Coordinator,0,0
+Zay Min Paing,zayminpaing@awba-group.com,dxit,7,19,0,Project Coordinator,0,0
