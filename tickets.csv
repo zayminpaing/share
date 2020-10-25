@@ -1,0 +1,166 @@
+user_id,project_id,status_id,open_person,open_date,assign_person,assign_date,resolve_person,resolve_date,resolution_description,close_person,close_date,support_type_id,remark,open_dow
+1,User Support,4,384,1-Jul-20,384,1-Jul-20,384,1-Jul-20,MS Teams setup,384,1-Jul-20,1,MS Teams setup,4
+2,User Support,4,384,1-Jul-20,384,1-Jul-20,384,1-Jul-20,MS Teams setup,384,1-Jul-20,1,MS Teams setup,4
+3,User Support,4,384,1-Jul-20,384,1-Jul-20,384,1-Jul-20,Outlook and MS Teams setup,384,1-Jul-20,1,Outlook and MS Teams setup,4
+4,User Support,4,387,1-Jul-20,387,1-Jul-20,387,1-Jul-20,MS Teams setup,384,1-Jul-20,2,MS Teams setup,4
+5,User Support,4,387,1-Jul-20,387,1-Jul-20,387,1-Jul-20,MS Teams setup,384,1-Jul-20,1,MS Teams setup,4
+6,User Support,4,387,1-Jul-20,387,1-Jul-20,387,1-Jul-20,Printer Re-Setup,384,2-Jul-20,1,Printer Issue,4
+7,User Support,4,387,1-Jul-20,387,1-Jul-20,387,1-Jul-20,Office Crack,384,1-Jul-20,1,Office Unlicense,4
+8,Loyalty,4,387,1-Jul-20,387,1-Jul-20,387,1-Jul-20,Create BP code M1-117 on Loyalty CMS,384,1-Jul-20,3, WSR New Customer BP code create,4
+9,User Support,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,Outlook Setup,384,2-Jul-20,1,Outlook Setup,5
+10,User Support,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,Office Activate,384,2-Jul-20,4,Office Activate,5
+11,User Support,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,MS Teams setup,384,2-Jul-20,1,MS Teams setup,5
+12,User Support,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,Outlook Profile Re-Setup,384,2-Jul-20,1,Outlook Error,5
+13,User Support,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,New PC Setup,384,2-Jul-20,4,New PC Setup,5
+14,User Support,4,386,2-Jul-20,386,2-Jul-20,386,2-Jul-20,New PC Setup,384,2-Jul-20,4,New PC Setup,5
+15,User Support,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,Outlook Profile Re-Setup,384,2-Jul-20,1,Outlook Error,5
+16,User Support,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,Outlook Profile Re-Setup,384,2-Jul-20,1,Outlook Issue,5
+8,Loyalty,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,Create BP code G2-067 on Loyalty CMS,384,2-Jul-20,3, WSR New Customer BP code create,5
+17,User Support,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,Outlook Re-Setup and Team Setup,384,2-Jul-20,1,Outlook and Team Issue,5
+18,User Support,4,387,2-Jul-20,387,2-Jul-20,387,2-Jul-20,Clean Temp File and Uninstall app,384,2-Jul-20,4,Laptop Maintenance,5
+19,SAP,4,391,2-Jul-20,391,2-Jul-20,391,2-Jul-20,Repair FortiClient,384,2-Jul-20,1,Can't connect to VPN,5
+13,SAP,4,391,2-Jul-20,391,2-Jul-20,391,2-Jul-20,Set up remote account,384,2-Jul-20,1,1 can't connect on new PC,5
+20,CUG,4,391,2-Jul-20,391,2-Jul-20,391,2-Jul-20,Request Telenor to fix it,384,2-Jul-20,5,Advertisement ring tune activating on all CUGs,5
+21,Denko,4,392,2-Jul-20,392,2-Jul-20,392,2-Jul-20,Solved by Denko,384,24-Sep-20,2,Rule Set Fault,5
+22,SAP,4,391,3-Jul-20,391,3-Jul-20,391,3-Jul-20,New PC set up,384,3-Jul-20,1,1 can't connect on new PC,6
+23,SAP,4,391,3-Jul-20,391,3-Jul-20,391,3-Jul-20,New PC set up,384,3-Jul-20,1,1 can't connect on new PC,6
+24,SAP,4,391,3-Jul-20,391,3-Jul-20,391,3-Jul-20,Laptop and 1 maintainance,384,3-Jul-20,1,SAP exit frequently,6
+25,SAP,4,391,3-Jul-20,391,3-Jul-20,391,3-Jul-20,Laptop and 1 maintainance,384,3-Jul-20,1,SAP exit frequently,6
+26,SAP,4,391,3-Jul-20,391,3-Jul-20,391,3-Jul-20,insert sub1 in require raw,384,3-Jul-20,1,SAP production order error,6
+27,User Support,4,387,3-Jul-20,387,3-Jul-20,387,3-Jul-20,Unicode Install,384,3-Jul-20,4,Unicode Error,6
+28,Loyalty,4,387,3-Jul-20,387,3-Jul-20,387,3-Jul-20,Create BP code KY-019 on Loyalty CMS,384,3-Jul-20,3, WSR New Customer BP code create,6
+29,User Support,4,387,3-Jul-20,387,3-Jul-20,387,3-Jul-20,Office Crack,384,3-Jul-20,1,Excel Filter Error,6
+30,User Support,4,387,3-Jul-20,387,3-Jul-20,387,3-Jul-20,Edit in Regedit file,384,3-Jul-20,1,MS Team in Outlook cannot open error,6
+14,User Support,4,387,3-Jul-20,387,3-Jul-20,387,3-Jul-20,Cannon MF4750 Printer Installation,384,3-Jul-20,4,Cannon MF4750 Printer Installation,6
+31,User Support,4,387,3-Jul-20,387,3-Jul-20,387,3-Jul-20,Kaspersky Installation and Activate,384,3-Jul-20,4,Kaspersky Installation and Activate,6
+32,User Support,4,387,3-Jul-20,387,3-Jul-20,387,3-Jul-20,Kaspersky Installation and Activate,384,3-Jul-20,4,Kaspersky Installation and Activate,6
+33,User Support,4,387,3-Jul-20,387,3-Jul-20,387,3-Jul-20,Kaspersky Installation and Activate,384,3-Jul-20,4,Kaspersky Installation and Activate,6
+34,User Support,4,387,3-Jul-20,387,3-Jul-20,387,3-Jul-20,Outlook Setting Change,384,3-Jul-20,4,Outlook Mail Receive Error,6
+21,Denko,4,392,4-Jul-20,392,4-Jul-20,392,4-Jul-20,Solved by Denko,384,24-Sep-20,2,Rule Set Fault,7
+35,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,New PC,384,6-Jul-20,4,New PC Setup,2
+HR Teams,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,New PC,384,6-Jul-20,4,New PC Setup,2
+37,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,New PC,384,6-Jul-20,4,New PC Setup,2
+18,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,New PC,384,6-Jul-20,4,New PC Setup,2
+38,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,New PC,384,6-Jul-20,4,New PC Setup,2
+39,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,New PC,384,6-Jul-20,4,New PC Setup,2
+40,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,New PC,384,6-Jul-20,4,New PC Setup,2
+41,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,Office Activate,384,6-Jul-20,4,Office Activate,2
+Moe 33 Khine,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,Wifi Error Fixed,384,6-Jul-20,4,Wifi Erroe Fixed,2
+43,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,Office Activate,384,6-Jul-20,4,Office Activate,2
+44,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,Scanner Setup,384,6-Jul-20,4,Scanner Setup,2
+45,User Support,4,386,6-Jul-20,386,6-Jul-20,386,6-Jul-20,Outlook Setup,384,6-Jul-20,4,Outlook Setup,2
+46,User Support,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,Mail Profile Re-Setup,384,6-Jul-20,4,Mail Setup in PC,2
+47,User Support,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,Office Repair,384,6-Jul-20,4,Outlook not Response Error,2
+28,Loyalty,4,387,6-Jul-20,387,6-Jul-20,387,6-Jul-20,Create BP code BW-091 on Loyalty CMS,384,6-Jul-20,3, WSR New Customer BP code create,2
+8,Loyalty,4,387,7-Jul-20,387,7-Jul-20,387,7-Jul-20,Create BP code MSS-069 on Loyalty CMS,384,7-Jul-20,3, WSR New Customer BP code create,3
+48,Loyalty,4,387,7-Jul-20,387,7-Jul-20,387,7-Jul-20,Create BP code A1-047 on Loyalty CMS,384,7-Jul-20,3, WSR New Customer BP code create,3
+49,User Support,4,387,7-Jul-20,387,7-Jul-20,387,7-Jul-20,Mail Profile Re-Setup,384,7-Jul-20,1,Outlook Mail Error,3
+50,User Support,4,387,7-Jul-20,387,7-Jul-20,387,7-Jul-20,Update Browser Version,384,7-Jul-20,1,Team Cannot Open in Browser,3
+51,User Support,4,387,7-Jul-20,387,7-Jul-20,387,7-Jul-20,Mail Profile Re-Setup and Office Crack,384,7-Jul-20,1,Outlook Mail Error,3
+9,User Support,4,387,7-Jul-20,387,7-Jul-20,387,7-Jul-20,Clean Temp File and Uninstall Useless app,384,7-Jul-20,1,Window Maintenance,3
+18,SAP,4,391,7-Jul-20,391,7-Jul-20,391,7-Jul-20,VPN and 1 Account set up on new PC,384,8-Jul-20,4,1 and VPN can't login,3
+52,SAP,4,391,7-Jul-20,391,7-Jul-20,391,7-Jul-20,Rent the temporary 1 account,384,8-Jul-20,1,1 black screen error,3
+53,CUG,4,391,7-Jul-20,391,7-Jul-20,391,22-Jul-20,Provides credit notes for barred sims by Telenor,384,24-Sep-20,5,Charges for barred sims are including in June Invo,3
+54,CUG,4,391,7-Jul-20,391,7-Jul-20,391,15-Jul-20,5 to Telenor to send Credit Notes,384,24-Sep-20,5,Charges for barred sims are including in June Invo,3
+55,User Support,4,384,8-Jul-20,384,8-Jul-20,384,8-Jul-20,5 check,384,8-Jul-20,1,5 check,4
+56,User Support,4,384,8-Jul-20,384,8-Jul-20,384,8-Jul-20,Scanner Software setup,384,8-Jul-20,4,Scanner Software setup,4
+57,User Support,4,384,8-Jul-20,384,8-Jul-20,384,8-Jul-20,Windows and Office activate,384,8-Jul-20,1,Windows and Office activate,4
+52,SAP,4,391,8-Jul-20,391,8-Jul-20,391,8-Jul-20,Change the own remote  account,384,8-Jul-20,1,To change the own remote account,4
+24,SAP,4,391,8-Jul-20,391,8-Jul-20,391,8-Jul-20,Find the password in VPN master Data,384,8-Jul-20,1,NotePad which keep VPN passwords accendently delet,4
+8,Loyalty,4,387,8-Jul-20,387,8-Jul-20,387,8-Jul-20,Create BP code BE-147 on Loyalty CMS,384,8-Jul-20,1, WSR New Customer BP code create,4
+37,User Support,4,387,8-Jul-20,387,8-Jul-20,387,8-Jul-20,Unicode Setup,384,8-Jul-20,1,Unicode Installation,4
+58,User Support,4,387,8-Jul-20,387,8-Jul-20,387,8-Jul-20,Team Uninstall and Re-Install,384,8-Jul-20,1,Team Recoder Error,4
+59,User Support,4,387,8-Jul-20,387,8-Jul-20,387,8-Jul-20,PC Reset and Outlook Profile Re-Setup,384,8-Jul-20,4,PC Reset and Outlook Setup,4
+60,User Support,4,387,8-Jul-20,387,8-Jul-20,387,8-Jul-20,Unicode Setup,384,8-Jul-20,1,Unicode Installation,4
+61,SAP,4,391,9-Jul-20,391,9-Jul-20,391,9-Jul-20,Plug in the network cable tightly,384,9-Jul-20,4,VPN frequently exit problem,5
+62,SAP,4,391,9-Jul-20,391,9-Jul-20,391,9-Jul-20,Fix the existing customized query by MIT,384,9-Jul-20,3,Sales documents for KY customers are not mapped fo,5
+8,Loyalty,4,387,9-Jul-20,387,9-Jul-20,387,9-Jul-20,Create BP code BE-127 on Loyalty CMS,384,9-Jul-20,3, WSR New Customer BP code create,5
+63,User Support,4,387,9-Jul-20,387,9-Jul-20,387,9-Jul-20,Outlook Profile Re-Setup,384,9-Jul-20,1,Outlook Mail Error,5
+64,CUG,4,391,9-Jul-20,391,9-Jul-20,,,,384,24-Sep-20,,Outstanding amount 9500 Ks and when top up 4000 of,5
+65,User Support,4,384,10-Jul-20,384,10-Jul-20,384,10-Jul-20,Windows and Office activate,384,10-Jul-20,1,Windows and Office activate,6
+66,User Support,4,387,10-Jul-20,387,10-Jul-20,387,10-Jul-20,Sanner Setup and Test,384,10-Jul-20,4,MS217W Sanner cannot scan issue,6
+8,Loyalty,4,387,10-Jul-20,387,10-Jul-20,387,10-Jul-20,Create BP code BE-127 on Loyalty CMS,384,10-Jul-20,3, WSR New Customer BP code create,6
+67,User Support,4,387,10-Jul-20,387,10-Jul-20,387,13-Jul-20,Window 10 pro Setup and Office Install,384,13-Jul-20,4,Window  Re-Setup,6
+68,User Support,4,387,13-Jul-20,387,13-Jul-20,387,13-Jul-20,Outlook Profile Re-Setup,384,13-Jul-20,1,Outlook Mail Issue,2
+69,User Support,4,387,13-Jul-20,387,13-Jul-20,387,13-Jul-20,Outlook Rule Re-Create,384,13-Jul-20,4,Outlook Rule Issue,2
+27,User Support,4,387,13-Jul-20,387,13-Jul-20,387,13-Jul-20,Outlook Profile Re-Setup,384,13-Jul-20,1,Outlook Cannot Open Issue,2
+70,User Support,4,387,13-Jul-20,387,13-Jul-20,387,13-Jul-20,Outlook Profile Re-Setup,384,13-Jul-20,4,Outlook Cannot Open Issue,2
+71,User Support,4,384,13-Jul-20,384,13-Jul-20,384,13-Jul-20,Unicode font for new laptop,384,13-Jul-20,4,Unicode font for new laptop,2
+72,User Support,4,384,13-Jul-20,384,13-Jul-20,384,13-Jul-20,email address support,384,13-Jul-20,1,email address support,2
+34,User Support,4,384,13-Jul-20,384,13-Jul-20,384,13-Jul-20,Windows date format change,384,13-Jul-20,1,Windows date format change,2
+Aung 17,User Support,4,384,13-Jul-20,384,13-Jul-20,384,13-Jul-20,office uninstall/reinstall and Phone email setup,384,13-Jul-20,4,office uninstall/reinstall and Phone email setup,2
+74,User Support,4,384,13-Jul-20,384,13-Jul-20,384,13-Jul-20,Printer setup,384,13-Jul-20,4,Printer setup,2
+48,Loyalty,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,Create BP code  BS-045 on Loyalty CMS,384,14-Jul-20,3, WSR New Customer BP code create,3
+8,Loyalty,4,388,14-Jul-20,388,14-Jul-20,388,14-Jul-20,Create BP code BW2-038  on Loyalty CMS,384,14-Jul-20,3, WSR New Customer BP code create,3
+75,User Support,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,Print Spooler Restart,384,14-Jul-20,1,Print Error,3
+76,User Support,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,Window Update and Office Repair,384,14-Jul-20,4,Unicode Error in Excel ,3
+77,User Support,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,Office Repair,384,14-Jul-20,4,Office Repair,3
+38,User Support,4,387,14-Jul-20,387,14-Jul-20,387,14-Jul-20,LBP2900 Printer Installation and Setup,384,14-Jul-20,1,LBP2900 Printer Installation,3
+78,User Support,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,New PC Setup,384,14-Jul-20,4,New PC Setup,3
+79,User Support,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,New PC Setup,384,14-Jul-20,4,New PC Setup,3
+19,User Support,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,New PC Setup,384,14-Jul-20,4,New PC Setup,3
+80,User Support,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,New PC Setup,384,14-Jul-20,4,New PC Setup,3
+81,User Support,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,New PC Setup,384,14-Jul-20,4,New PC Setup,3
+82,User Support,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,New PC Setup,384,14-Jul-20,4,New PC Setup,3
+83,User Support,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,New PC Setup,384,14-Jul-20,4,New PC Setup,3
+72,User Support,4,386,14-Jul-20,386,14-Jul-20,386,14-Jul-20,New PC Setup,384,14-Jul-20,4,New PC Setup,3
+84,Loyalty,4,393,14-Jul-20,393,14-Jul-20,393,14-Jul-20,Manual synced,384,14-Jul-20,3,Manual sync,3
+85,Loyalty,4,393,14-Jul-20,393,14-Jul-20,393,14-Jul-20,Manual synced,384,14-Jul-20,3,Manual sync,3
+85,Loyalty,4,393,14-Jul-20,393,14-Jul-20,393,14-Jul-20,Manual synced,384,14-Jul-20,3,Manual sync,3
+86,User Support,4,387,15-Jul-20,387,15-Jul-20,387,15-Jul-20,Outlook Re-Setup/ Team Installation,384,15-Jul-20,4,,4
+87,User Support,4,384,16-Jul-20,384,16-Jul-20,384,16-Jul-20,close outlook and reopen,384,16-Jul-20,4,Outlook message box popup,5
+19,User Support,4,387,16-Jul-20,387,16-Jul-20,387,16-Jul-20,Data Backup,384,16-Jul-20,4,Data Backup,5
+66,User Support,4,387,16-Jul-20,387,16-Jul-20,387,16-Jul-20,Print Driver Update,384,16-Jul-20,4,Printer Error,5
+88,User Support,4,387,16-Jul-20,387,16-Jul-20,387,16-Jul-20,Clean Temp file in Registry Editor,384,16-Jul-20,4,Excel cannot open in outlook,5
+38,User Support,4,387,16-Jul-20,387,16-Jul-20,387,16-Jul-20,Scanner T700W Driver Install and Setup,384,16-Jul-20,4,Scanner T700W Install,5
+89,Loyalty,4,388,17-Jul-20,388,17-Jul-20,388,17-Jul-20,Delete Invoice379355 on Loyalty Live CMS,384,17-Jul-20,3,YGN ?? MDY ???? Transfer ????????????  TRF 68318??,6
+90,Loyalty,4,388,17-Jul-20,388,17-Jul-20,388,17-Jul-20,Syncs the data on Loyalty Live CMS,384,17-Jul-20,3,QUEEN STAR 30CC (688cards)(Mfd 16-Jul-20/Exp 15-Ju,6
+81,User Support,4,387,17-Jul-20,387,17-Jul-20,387,17-Jul-20,Data Backup and Mail Setup in PC,384,17-Jul-20,4,Data Backup and Mail Setup in PC,6
+91,User Support,4,384,17-Jul-20,384,17-Jul-20,384,17-Jul-20,temp clean and restart,384,17-Jul-20,4,Windows hang,6
+92,User Support,4,384,17-Jul-20,384,17-Jul-20,384,17-Jul-20,outlook temp cleaning,384,17-Jul-20,4,email attach error,6
+91,User Support,4,384,17-Jul-20,384,17-Jul-20,384,17-Jul-20,windows activate,384,17-Jul-20,4,windows activate,6
+93,User Support,4,384,17-Jul-20,384,17-Jul-20,384,17-Jul-20,Windows install,384,17-Jul-20,4,Windows install,6
+94,User Support,4,384,17-Jul-20,384,17-Jul-20,384,17-Jul-20,5 setup in outlook,384,17-Jul-20,1,5 setup,6
+95,Loyalty,4,388,17-Jul-20,388,17-Jul-20,388,17-Jul-20,Syncs the data on Loyalty Live CMS,384,17-Jul-20,3,Primer 5Lit (200cards)(Mfd 16-Jul-20/Exp 15-Jul-22,6
+84,Loyalty,4,393,17-Jul-20,393,17-Jul-20,393,17-Jul-20,Manual synced,384,17-Jul-20,3,Manual sync,6
+96,User Support,4,384,21-Jul-20,384,21-Jul-20,384,21-Jul-20,teams login,384,21-Jul-20,1,teams error,3
+97,User Support,4,384,21-Jul-20,384,21-Jul-20,384,21-Jul-20,Network printer setup,384,21-Jul-20,1,Network Printer,3
+98,User Support,4,384,21-Jul-20,384,21-Jul-20,384,21-Jul-20,office activate,384,21-Jul-20,1,Office Activate,3
+99,User Support,4,386,21-Jul-20,386,21-Jul-20,386,21-Jul-20,Printer Roller Cleaning,384,21-Jul-20,4,Printer Roller,3
+100,User Support,4,384,21-Jul-20,384,21-Jul-20,384,21-Jul-20,Office Uninstall/reinstall,384,21-Jul-20,4,Office Uninstall/reinstall,3
+101,User Support,4,384,21-Jul-20,384,21-Jul-20,384,21-Jul-20,One Drive login,384,21-Jul-20,1,One Drive login,3
+102,User Support,4,387,21-Jul-20,387,21-Jul-20,387,21-Jul-20,Mail Profile Re-setup,384,21-Jul-20,1,5 Error,3
+19,User Support,4,387,21-Jul-20,387,21-Jul-20,387,21-Jul-20,LiDE220 Scanner Setup,384,21-Jul-20,4,LiDE220 Scanner Setup,3
+64,User Support,4,387,21-Jul-20,387,21-Jul-20,387,21-Jul-20,Scanner Setup and Mail Re-Setup,384,21-Jul-20,4,Scanner Setup and Mail Re-Setup,3
+103,User Support,4,387,21-Jul-20,387,21-Jul-20,387,21-Jul-20,Team Pw Reset and Re-Login,384,21-Jul-20,1,Team Login Error,3
+8,Loyalty,4,387,21-Jul-20,387,21-Jul-20,387,21-Jul-20,Create BP code A1-113 on Loyalty CMS,384,21-Jul-20,3, WSR New Customer BP code create,3
+48,Loyalty,4,387,21-Jul-20,387,21-Jul-20,387,21-Jul-20,Create BP code SE-077  on Loyalty CMS,384,21-Jul-20,3, WSR New Customer BP code create,3
+104,Loyalty,4,387,21-Jul-20,387,21-Jul-20,387,21-Jul-20,Create BP code A1-076 on Loyalty CMS,384,21-Jul-20,3, WSR New Customer BP code create,3
+105,User Support,4,387,21-Jul-20,387,21-Jul-20,387,21-Jul-20,Uninstall 8 Language and Install Unicode,384,21-Jul-20,1,Unicode Error,3
+106,User Support,4,387,21-Jul-20,387,21-Jul-20,387,21-Jul-20,Espon V39 Scanner Installation and Mail Setup,384,21-Jul-20,1,Espon V39 Scanner Installation and Mail Setup,3
+107,User Support,4,384,21-Jul-20,384,21-Jul-20,384,21-Jul-20,Outlook setup,384,21-Jul-20,4,Outlook setup,3
+84,Loyalty,4,393,21-Jul-20,393,21-Jul-20,393,21-Jul-20,Manual synced,384,21-Jul-20,3,Manual sync,3
+108,User Support,4,386,22-Jul-20,386,22-Jul-20,386,22-Jul-20,New PC Setup,384,22-Jul-20,4,New PC Setup,4
+109,User Support,4,386,22-Jul-20,386,22-Jul-20,386,22-Jul-20,Mail Setup,384,22-Jul-20,4,Mail Setup,4
+64,User Support,4,387,22-Jul-20,387,22-Jul-20,387,22-Jul-20,Printer LBP 6000 Installation,384,22-Jul-20,1,Printer LBP 6000 Installation,4
+48,Loyalty,4,387,22-Jul-20,387,22-Jul-20,387,22-Jul-20,Create BP code A1-077 on Loyalty CMS,384,22-Jul-20,3, WSR New Customer BP code create,4
+48,Loyalty,4,387,22-Jul-20,387,22-Jul-20,387,22-Jul-20,Create BP code A2-101 on Loyalty CMS,384,22-Jul-20,3, WSR New Customer BP code create,4
+48,Loyalty,4,387,23-Jul-20,387,23-Jul-20,387,23-Jul-20,Create BP code A2-111 on Loyalty CMS,384,23-Jul-20,3, WSR New Customer BP code create,5
+48,Loyalty,4,387,24-Jul-20,387,24-Jul-20,387,24-Jul-20,Create BP code SE-078 on Loyalty CMS,384,24-Jul-20,3, WSR New Customer BP code create,6
+84,Loyalty,4,393,24-Jul-20,393,24-Jul-20,393,24-Jul-20,Manual synced,384,24-Jul-20,3,Manual sync,6
+84,Loyalty,4,393,24-Jul-20,393,24-Jul-20,393,24-Jul-20,Manual synced,384,24-Jul-20,3,Manual sync,6
+110,CUG,4,391,27-Jul-20,391,27-Jul-20,391,1-Aug-20,5 to Telenor,384,7-Aug-20,5,Outstanding amount is appeared and when top up/ th,2
+111,User Support,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Outlook Profile Re-Setup,384,28-Jul-20,4,Outlook Cannot Open,3
+8,Loyalty,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Create BP code MSS-067 on Loyalty CMS,384,28-Jul-20,3, WSR New Customer BP code create,3
+112,User Support,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Clear Outlook Secure Temps in Registry editor,384,28-Jul-20,1,Excel Attach File cannot open in Outlook,3
+113,User Support,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Clear Outlook Secure Temps in Registry editor,384,28-Jul-20,1,Excel Attach File cannot open in Outlook,3
+114,User Support,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Clear Outlook Secure Temps in Registry editor,384,28-Jul-20,1,Excel Attach File cannot open in Outlook,3
+115,User Support,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Mail Setting Change,384,28-Jul-20,1,5 Send/Receive Error,3
+99,User Support,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Setup with new RJ46,384,28-Jul-20,4,Network Cable RJ45 Issue ,3
+116,User Support,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Setup with new RJ46,384,28-Jul-20,4,Network Cable RJ45 Issue ,3
+117,User Support,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Setup with new RJ47,384,28-Jul-20,4,Network Cable RJ45 Issue ,3
+118,User Support,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Setup with new RJ48,384,28-Jul-20,4,Network Cable RJ45 Issue ,3
+119,User Support,4,387,28-Jul-20,387,28-Jul-20,387,28-Jul-20,Zoom password Restart,384,28-Jul-20,4,Zoom password error,3
+69,User Support,4,387,29-Jul-20,387,29-Jul-20,387,29-Jul-20,New PC Setup,384,29-Jul-20,4,New PC Setup,4
+28,Loyalty,4,387,30-Jul-20,387,30-Jul-20,387,30-Jul-20,Create BP code M1-108 on Loyalty CMS,384,30-Jul-20,3, WSR New Customer BP code create,5
+85,Loyalty,4,393,30-Jul-20,393,30-Jul-20,393,30-Jul-20,Manual synced,384,30-Jul-20,3,Manual sync,5
